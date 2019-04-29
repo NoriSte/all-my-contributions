@@ -1,15 +1,15 @@
-# all-my-contributions
 A list of all my contributions ❤️
 
+- [Plugins](#plugins)
+  - [For Cypress](#for-cypress)
+  - [For Gatsby](#for-gatsby)
+  - [For VS Code](#for-vs-code)
+  - [Others](#others)
+- [Talks](#talks)
+- [Workshops](#workshops)
+
 ## Plugins
-### For Cypress- [all-my-contributions](#all-my-contributions)
-  - [Plugins](#plugins)
-    - [For Cypress](#for-cypress)
-    - [For Gatsby](#for-gatsby)
-    - [For VS Code](#for-vs-code)
-    - [Others](#others)
-  - [Talks](#talks)
-  - [Workshops](#workshops)
+### For Cypress
 
 **Cypress Protobuf**
 Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
@@ -18,6 +18,11 @@ Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/pac
 
 **Cypress Wait Untile**: 
 Allows to recursively wait until something happens ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
+
+
+**XXX**: XXX ([NPM](xxxxx) - [GitHub](xxxxxx))
+
+**XXX**: XXX ([NPM](xxxxx) - [GitHub](xxxxxx))
 
 ### For Gatsby
 

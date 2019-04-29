@@ -7,8 +7,9 @@ A list of all my contributions ❤️
 - [Other utilities for Conio](#other-utilities-for-conio)
 - [Others](#others)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
-- [Talks](#talks)
-- [Workshops](#workshops)
+- [Speaker](#speaker)
+  - [Talks](#talks)
+  - [Workshops](#workshops)
 - [Social links](#social-links)
 
 ## Plugins
@@ -16,11 +17,34 @@ A list of all my contributions ❤️
 
 **Cypress Protobuf**
 Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/cypress-protobuf.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-protobuf)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-**Cypress OTP**: Allows to enter a valid OTP token in your UI tests ([NPM]([xxxxx](https://www.npmjs.com/package/cypress-otp)) - [GitHub](https://github.com/NoriSte/cypress-otp))
+
+**Cypress OTP**: Allows to enter a valid OTP token in your UI tests
+([NPM](https://www.npmjs.com/package/cypress-otp) -
+[GitHub](https://github.com/NoriSte/cypress-otp))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/cypress-otp.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-otp)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<br />
 
 **Cypress Wait Until**: 
-Allows to recursively wait until something happens, proudly made during an [Open Source Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/) ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
+Allows to recursively wait until something happens, proudly made during an [Open Source
+Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
+([NPM](https://www.npmjs.com/package/cypress-wait-until) -
+[GitHub](https://github.com/NoriSte/cypress-wait-until))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/cypress-wait-until.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-wait-until)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![Open Source
+Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 
 ### For Gatsby
 
@@ -28,6 +52,11 @@ Allows to recursively wait until something happens, proudly made during an [Open
 Adds the Iubenda's cookie policy banner to a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### For VS Code
 
@@ -39,11 +68,26 @@ marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increas
 
 **URL Content Changes Checker**: A Node.js script to read and visually compare a remote resource
 body ([GitHub](https://github.com/NoriSte/url-content-changes-checker))
+<br />
+[![Build Status](https://travis-ci.com/NoriSte/url-content-changes-checker.svg?branch=master)](https://travis-ci.com/NoriSte/url-content-changes-checker)
+[![Coverage Status](https://coveralls.io/repos/github/NoriSte/url-content-changes-checker/badge.svg?branch=feature%2Fcoveralls)](https://coveralls.io/github/NoriSte/url-content-changes-checker?branch=feature%2Fcoveralls)
 
 **Bitcoin Address Soft Regex Validation**: A single-function package to perform soft (no checksum)
-bitcoin address (Base58 and Bech32) validation ([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) - [GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
+bitcoin address (Base58 and Bech32) validation
+([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) -
+[GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
+<br />
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![Build Status](https://travis-ci.com/NoriSte/bitcoin-address-soft-regex-validation.svg?branch=master)](https://travis-ci.com/NoriSte/bitcoin-address-soft-regex-validation)
+[![Coverage Status](https://coveralls.io/repos/github/NoriSte/bitcoin-address-soft-regex-validation/badge.svg?branch=master)](https://coveralls.io/github/NoriSte/bitcoin-address-soft-regex-validation?branch=master)
 
-**Typescript Is Type**: A Typescript-safe runtime type check function ([NPM](https://www.npmjs.com/package/typescript-is-type) - [GitHub](https://github.com/NoriSte/typescript-is-type))
+**Typescript Is Type**: A Typescript-safe runtime type check function
+([NPM](https://www.npmjs.com/package/typescript-is-type) -
+[GitHub](https://github.com/NoriSte/typescript-is-type))
+<br />
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![Build Status](https://travis-ci.com/NoriSte/typescript-is-type.svg?branch=master)](https://travis-ci.com/NoriSte/typescript-is-type)
+[![Coverage Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)](https://coveralls.io/github/NoriSte/typescript-is-type)
 
 ## Others
 

@@ -14,15 +14,10 @@ A list of all my contributions ❤️
 **Cypress Protobuf**
 Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
 
-**Cypress OTP**: Allows to enter a valid OTP token in your UI tests ([NPM]([xxxxx](https://www.npmjs.com/package/cypress-otp)) - [GitHub]([xxxxxx](https://github.com/NoriSte/cypress-otp)))
+**Cypress OTP**: Allows to enter a valid OTP token in your UI tests ([NPM]([xxxxx](https://www.npmjs.com/package/cypress-otp)) - [GitHub](https://github.com/NoriSte/cypress-otp))
 
 **Cypress Wait Untile**: 
 Allows to recursively wait until something happens ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
-
-
-**XXX**: XXX ([NPM](xxxxx) - [GitHub](xxxxxx))
-
-**XXX**: XXX ([NPM](xxxxx) - [GitHub](xxxxxx))
 
 ### For Gatsby
 
@@ -33,11 +28,28 @@ Adds the Iubenda's cookie policy banner to a Gatsby website
 
 ### For VS Code
 
-**Increase by 1**: replaces a series of selection with a sequence of numbers ([VS Code marketplace]([xxxxx](https://marketplace.visualstudio.com/items?itemName=noriste.increase-by-1)) - [GitHub]([xxxxxx](https://github.com/NoriSte/increase-by-1)))
+**Increase by 1**: replaces a series of selection with a sequence of numbers ([VS Code
+marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increase-by-1) -
+[GitHub](https://github.com/NoriSte/increase-by-1))
 
-### Others
+## Other utilities for [Conio](https://conio.com/it/)
 
-**WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all ([GitHub]([xxxxxx](https://github.com/NoriSte/whatsapp-messages-batch)))
+**URL Content Changes Checker**: A Node.js script to read and visually compare a remote resource
+body ([GitHub](https://github.com/NoriSte/url-content-changes-checker))
+
+**Bitcoin Address Soft Regex Validation**: A single-function package to perform soft (no checksum)
+bitcoin address (Base58 and Bech32) validation ([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) - [GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
+
+**Typescript Is Type**: A Typescript-safe runtime type check function ([NPM](https://www.npmjs.com/package/typescript-is-type) - [GitHub](https://github.com/NoriSte/typescript-is-type))
+
+## Others
+
+**WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
+([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
+
+
+
+
 
 ## Talks
 

@@ -19,7 +19,7 @@ Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/pac
 
 **Cypress OTP**: Allows to enter a valid OTP token in your UI tests ([NPM]([xxxxx](https://www.npmjs.com/package/cypress-otp)) - [GitHub](https://github.com/NoriSte/cypress-otp))
 
-**Cypress Wait Untile**: 
+**Cypress Wait Until**: 
 Allows to recursively wait until something happens, proudly made during an [Open Source Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/) ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
 
 ### For Gatsby
@@ -58,8 +58,8 @@ bitcoin address (Base58 and Bech32) validation ([NPM](https://www.npmjs.com/pack
 
 **Cypress Mousemove issue**: The simplest code to show a strange mouse-related Cypress behaviour ([GitHub](https://github.com/NoriSte/cypress-mousemove-issue))
 
-
-## Talks
+## Speaker
+### Talks
 
 **UI Testing
 Best Practices** @ Milano Frontend:
@@ -74,7 +74,7 @@ Best Practices** @ Milano Frontend:
 [Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org)
 
-## Workshops
+### Workshops
 
 **E2E Testing Puppeteer** @ Frontenders Ticino:
 [Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -

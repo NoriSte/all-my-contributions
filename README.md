@@ -4,9 +4,12 @@ A list of all my contributions ❤️
   - [For Cypress](#for-cypress)
   - [For Gatsby](#for-gatsby)
   - [For VS Code](#for-vs-code)
-  - [Others](#others)
+- [Other utilities for Conio](#other-utilities-for-conio)
+- [Others](#others)
+- [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Talks](#talks)
 - [Workshops](#workshops)
+- [Social links](#social-links)
 
 ## Plugins
 ### For Cypress
@@ -17,7 +20,7 @@ Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/pac
 **Cypress OTP**: Allows to enter a valid OTP token in your UI tests ([NPM]([xxxxx](https://www.npmjs.com/package/cypress-otp)) - [GitHub](https://github.com/NoriSte/cypress-otp))
 
 **Cypress Wait Untile**: 
-Allows to recursively wait until something happens ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
+Allows to recursively wait until something happens, proudly made during an [Open Source Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/) ([NPM](https://www.npmjs.com/package/cypress-wait-until) - [GitHub](https://github.com/NoriSte/cypress-wait-until))
 
 ### For Gatsby
 
@@ -48,7 +51,12 @@ bitcoin address (Base58 and Bech32) validation ([NPM](https://www.npmjs.com/pack
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
 
 
+## Answering on StackOverflow
 
+**Redux Saga Login tests**: The Redux Saga documentation example... tested
+([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
+
+**Cypress Mousemove issue**: The simplest code to show a strange mouse-related Cypress behaviour ([GitHub](https://github.com/NoriSte/cypress-mousemove-issue))
 
 
 ## Talks
@@ -70,4 +78,9 @@ Best Practices** @ Milano Frontend:
 
 **E2E Testing Puppeteer** @ Frontenders Ticino:
 [Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
-[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [FETI](http://www.frontenders.ch)
+[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
+[FETI](http://www.frontenders.ch)
+
+## Social links
+[Twitter](https://twitter.com/NoriSte) - [LinkedIn](https://www.linkedin.com/in/noriste/) -
+[StackOverflow](https://stackoverflow.com/users/700707/noriste) - [NPM](https://www.npmjs.com/settings/noriste/packages)

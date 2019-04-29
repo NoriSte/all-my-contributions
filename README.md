@@ -127,4 +127,4 @@ Best Practices** @ Milano Frontend:
 
 ## Social links
 [Twitter](https://twitter.com/NoriSte) - [LinkedIn](https://www.linkedin.com/in/noriste/) -
-[StackOverflow](https://stackoverflow.com/users/700707/noriste) - [NPM](https://www.npmjs.com/settings/noriste/packages)
+[StackOverflow](https://stackoverflow.com/users/700707/noriste) - [NPM](https://www.npmjs.com/settings/noriste/packages) - [my CV](https://www.visualcv.com/stefano-magni/)

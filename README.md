@@ -6,6 +6,7 @@ A list of all my contributions ❤️
   - [For VS Code](#for-vs-code)
 - [Other utilities for Conio](#other-utilities-for-conio)
 - [Others](#others)
+- [PRs](#prs)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Speaker](#speaker)
   - [Talks](#talks)
@@ -33,7 +34,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <br />
 
-**Cypress Wait Until**: 
+**Cypress Wait Until**:
 Allows to recursively wait until something happens, proudly made during an [Open Source
 Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 ([NPM](https://www.npmjs.com/package/cypress-wait-until) -
@@ -48,7 +49,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 ### For Gatsby
 
-**Gatsby Iubenda Cookie Footer**: 
+**Gatsby Iubenda Cookie Footer**:
 Adds the Iubenda's cookie policy banner to a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer))
@@ -93,6 +94,16 @@ bitcoin address (Base58 and Bech32) validation
 
 **WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
+
+
+## PRs
+
+**Percy Cypress**: Add TypeScript types ([GitHub](https://github.com/percy/percy-cypress/pull/96))
+
+**Gatsby GTM plugin**: Allow to place the GTM script at the end of the tag
+([GitHub](https://github.com/gatsbyjs/gatsby/pull/13424))
+
+**Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6))
 
 
 ## Answering on StackOverflow

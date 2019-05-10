@@ -59,6 +59,16 @@ Adds the Iubenda's cookie policy banner to a Gatsby website
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+**Gatsby Preload Link Crossorigin**:
+Adds the crossorigin attribute to every `<link rel="preload">`
+([NPM](https://www.npmjs.com/package/gatsby-preload-link-crossorigin) -
+[GitHub](https://github.com/NoriSte/gatsby-preload-link-crossorigin))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ### For VS Code
 
 **Increase by 1**: replaces a series of selection with a sequence of numbers ([VS Code

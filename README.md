@@ -98,6 +98,8 @@ bitcoin address (Base58 and Bech32) validation
 
 ## PRs
 
+**Cypress Skip and Only UI**: Add support to modules ([GitHub](https://github.com/bahmutov/cypress-skip-and-only-ui/pull/50))
+
 **Percy Cypress**: Add TypeScript types ([GitHub](https://github.com/percy/percy-cypress/pull/96))
 
 **Gatsby GTM plugin**: Allow to place the GTM script at the end of the tag

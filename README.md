@@ -61,11 +61,11 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 **Gatsby Preload Link Crossorigin**:
 Adds the crossorigin attribute to every `<link rel="preload">`
-([NPM](https://www.npmjs.com/package/gatsby-preload-link-crossorigin) -
-[GitHub](https://github.com/NoriSte/gatsby-preload-link-crossorigin))
+([NPM](https://www.npmjs.com/package/gatsby-plugin-preload-link-crossorigin) -
+[GitHub](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin))
 <br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Build Status](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-preload-link-crossorigin)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 

@@ -59,6 +59,16 @@ Adds the Iubenda's cookie policy banner to a Gatsby website
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+**Gatsby Preconnect**:
+Add a `<link rel="preconnect">` for every specified domain
+([NPM](https://www.npmjs.com/package/gatsby-plugin-preconnect) -
+[GitHub](https://github.com/NoriSte/gatsby-plugin-preconnect))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 **Gatsby Preload Link Crossorigin**:
 Adds the crossorigin attribute to every `<link rel="preload">`
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preload-link-crossorigin) -

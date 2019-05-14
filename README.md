@@ -50,7 +50,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 ### For Gatsby
 
 **Gatsby Perfume.js**:
-Embeds Perfume.js in a Gatsby website
+Embeds [Perfume.js](https://github.com/zizzamia/perfume.js) in a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js))
 <br />

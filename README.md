@@ -49,6 +49,16 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 ### For Gatsby
 
+**Gatsby Perfume.js**:
+Embeds Perfume.js in a Gatsby website
+([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
+[GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 **Gatsby Iubenda Cookie Footer**:
 Adds the Iubenda's cookie policy banner to a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -

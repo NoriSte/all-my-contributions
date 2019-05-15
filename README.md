@@ -52,7 +52,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **Gatsby Perfume.js**:
 Embeds [Perfume.js](https://github.com/zizzamia/perfume.js) in a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js))
+[GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-perfume.js/))
 <br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
@@ -62,7 +62,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 **Gatsby Iubenda Cookie Footer**:
 Adds the Iubenda's cookie policy banner to a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer))
+[GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 <br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
@@ -72,7 +72,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 **Gatsby Preconnect**:
 Add a `<link rel="preconnect">` for every specified domain
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preconnect) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-preconnect))
+[GitHub](https://github.com/NoriSte/gatsby-plugin-preconnect) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preconnect/))
 <br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect)
@@ -82,7 +82,7 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 **Gatsby Preload Link Crossorigin**:
 Adds the crossorigin attribute to every `<link rel="preload">`
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preload-link-crossorigin) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin))
+[GitHub](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preload-link-crossorigin/))
 <br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)

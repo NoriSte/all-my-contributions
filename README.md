@@ -128,14 +128,14 @@ bitcoin address (Base58 and Bech32) validation
 
 ## PRs
 
-**Gatsby Brotli and Zopfli plugins**: Allow to place the files in a dedicated directory ([GitHub
+**Gatsby Brotli and Zopfli plugins**: Allow placing the files in a dedicated directory ([GitHub
 Brotli](https://github.com/ovhemert/gatsby-plugin-brotli/pull/6) - [GitHub Zopfli](https://github.com/ovhemert/gatsby-plugin-zopfli/pull/8))
 
 **Cypress Skip and Only UI**: Add support to modules ([GitHub](https://github.com/bahmutov/cypress-skip-and-only-ui/pull/50))
 
 **Percy Cypress**: Add TypeScript types ([GitHub](https://github.com/percy/percy-cypress/pull/96))
 
-**Gatsby GTM plugin**: Allow to place the GTM script at the end of the tag
+**Gatsby GTM plugin**: Allow placing the GTM script at the end of the tag
 ([GitHub](https://github.com/gatsbyjs/gatsby/pull/13424))
 
 **Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6))

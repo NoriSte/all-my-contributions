@@ -135,6 +135,11 @@ Brotli](https://github.com/ovhemert/gatsby-plugin-brotli/pull/6) - [GitHub Zopfl
 
 **Percy Cypress**: Add TypeScript types ([GitHub](https://github.com/percy/percy-cypress/pull/96))
 
+**Reveal.js (and slides.com too, obviously) on touch devices**: Remove the thin area between the
+down arrow and the  progress bar ([GitHub](https://github.com/hakimel/reveal.js/pull/2410) - [Open
+Source Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)) [![Open Source
+Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
+
 **Gatsby GTM plugin**: Allow placing the GTM script at the end of the tag
 ([GitHub](https://github.com/gatsbyjs/gatsby/pull/13424))
 

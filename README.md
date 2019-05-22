@@ -122,6 +122,17 @@ bitcoin address (Base58 and Bech32) validation
 
 ## Others
 
+**React Crypto Compare**: A simple cryptocurrencies converter component based on https://min-api.cryptocompare.com
+([NPM](https://www.npmjs.com/package/react-crypto-compare) -
+[GitHub](https://github.com/NoriSte/react-crypto-compare))
+<br />
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Build Status](https://travis-ci.com/NoriSte/react-crypto-compare.svg?branch=master)](https://travis-ci.com/NoriSte/react-crypto-compare)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+
+
 **WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
 

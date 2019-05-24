@@ -139,6 +139,8 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 ## PRs
 
+**Cypress**: Fix the cy.stub TypeScript signature ([GitHub](https://github.com/cypress-io/cypress/pull/4302))
+
 **Gatsby Brotli and Zopfli plugins**: Allow placing the files in a dedicated directory ([GitHub
 Brotli](https://github.com/ovhemert/gatsby-plugin-brotli/pull/6) - [GitHub Zopfli](https://github.com/ovhemert/gatsby-plugin-zopfli/pull/8))
 

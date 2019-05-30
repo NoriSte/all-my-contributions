@@ -19,18 +19,19 @@ A list of all my contributions ❤️
 **Cypress Protobuf**
 Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/cypress-protobuf.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-protobuf)
-[![Open Source
-Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Build Status](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-protobuf)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 **Cypress OTP**: Allows to enter a valid OTP token in your UI tests
 ([NPM](https://www.npmjs.com/package/cypress-otp) -
 [GitHub](https://github.com/NoriSte/cypress-otp))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/cypress-otp.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-otp)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-otp)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <br />
 
@@ -40,8 +41,9 @@ Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 ([NPM](https://www.npmjs.com/package/cypress-wait-until) -
 [GitHub](https://github.com/NoriSte/cypress-wait-until))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/cypress-wait-until.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-wait-until)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-wait-until)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 [![Open Source
@@ -54,8 +56,9 @@ Embeds [Perfume.js](https://github.com/zizzamia/perfume.js) in a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-perfume.js/))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -64,8 +67,9 @@ Adds the Iubenda's cookie policy banner to a Gatsby website
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -74,8 +78,9 @@ Add a `<link rel="preconnect">` for every specified domain
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preconnect) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-preconnect) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preconnect/))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect)
+[![Build Status](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-preconnect)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -84,8 +89,9 @@ Adds the crossorigin attribute to every `<link rel="preload">`
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preload-link-crossorigin) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preload-link-crossorigin/))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -101,6 +107,7 @@ marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increas
 body ([GitHub](https://github.com/NoriSte/url-content-changes-checker))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/url-content-changes-checker.svg?branch=master)](https://travis-ci.com/NoriSte/url-content-changes-checker)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/url-content-changes-checker)
 [![Coverage Status](https://coveralls.io/repos/github/NoriSte/url-content-changes-checker/badge.svg?branch=feature%2Fcoveralls)](https://coveralls.io/github/NoriSte/url-content-changes-checker?branch=feature%2Fcoveralls)
 
 **Bitcoin Address Soft Regex Validation**: A single-function package to perform soft (no checksum)
@@ -108,17 +115,19 @@ bitcoin address (Base58 and Bech32) validation
 ([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) -
 [GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
 <br />
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 [![Build Status](https://travis-ci.com/NoriSte/bitcoin-address-soft-regex-validation.svg?branch=master)](https://travis-ci.com/NoriSte/bitcoin-address-soft-regex-validation)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/bitcoin-address-soft-regex-validation)
 [![Coverage Status](https://coveralls.io/repos/github/NoriSte/bitcoin-address-soft-regex-validation/badge.svg?branch=master)](https://coveralls.io/github/NoriSte/bitcoin-address-soft-regex-validation?branch=master)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 **Typescript Is Type**: A Typescript-safe runtime type check function
 ([NPM](https://www.npmjs.com/package/typescript-is-type) -
 [GitHub](https://github.com/NoriSte/typescript-is-type))
 <br />
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 [![Build Status](https://travis-ci.com/NoriSte/typescript-is-type.svg?branch=master)](https://travis-ci.com/NoriSte/typescript-is-type)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/typescript-is-type)
 [![Coverage Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)](https://coveralls.io/github/NoriSte/typescript-is-type)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 ## Others
 
@@ -126,8 +135,9 @@ bitcoin address (Base58 and Bech32) validation
 ([NPM](https://www.npmjs.com/package/react-crypto-compare) -
 [GitHub](https://github.com/NoriSte/react-crypto-compare))
 <br />
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Build Status](https://travis-ci.com/NoriSte/react-crypto-compare.svg?branch=master)](https://travis-ci.com/NoriSte/react-crypto-compare)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/react-crypto-compare)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)

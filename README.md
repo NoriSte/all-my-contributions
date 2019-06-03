@@ -32,7 +32,9 @@ Status](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://tr
 [GitHub](https://github.com/NoriSte/cypress-otp))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/cypress-otp.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-otp)
-[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-otp)
+[![Build
+Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-otp)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <br />
@@ -60,7 +62,9 @@ Embeds [Perfume.js](https://github.com/zizzamia/perfume.js) in a Gatsby website
 [GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-perfume.js/))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
-[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
+[![Build
+Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-perfume.js)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -150,7 +154,9 @@ Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)]
 [GitHub](https://github.com/NoriSte/react-crypto-compare))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/react-crypto-compare.svg?branch=master)](https://travis-ci.com/NoriSte/react-crypto-compare)
-[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/react-crypto-compare)
+[![Build
+Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/react-crypto-compare)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)

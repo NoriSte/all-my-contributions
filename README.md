@@ -202,7 +202,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **UI Testing
 Best Practices** @ Milano Frontend:
 [Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
-[Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/)
+[Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/)
 
 **E2E Testing with Jest and Puppeteer** @ Como Front End:
 [Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -

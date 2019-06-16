@@ -200,6 +200,11 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 ### Talks
 
 **UI Testing
+Best Practices** @ FEVR:
+[Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
+[Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) -  [FEVR](http://www.fevr.it)
+
+**UI Testing
 Best Practices** @ Milano Frontend:
 [Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
 [Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/)
@@ -208,13 +213,13 @@ Best Practices** @ Milano Frontend:
 [Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/)
 
-**E2E testing with Jest e Puppeteer** @ Como Front End:
+**E2E Testing with Jest and Puppeteer** @ PugMI:
 [Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org)
 
 ### Workshops
 
-**E2E Testing Puppeteer** @ Frontenders Ticino:
+**E2E Testing with Puppeteer** @ Frontenders Ticino:
 [Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
 [FETI](http://www.frontenders.ch)

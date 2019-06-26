@@ -206,7 +206,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **UI Testing
 Best Practices** @ FEVR:
 [Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
-[Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [FEVR](http://www.fevr.it)
+[Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [Recording (Italian)](https://www.facebook.com/matteoguidotto/videos/10219953432210058) - [FEVR](http://www.fevr.it)
 
 **UI Testing
 Best Practices** @ Milano Frontend:

@@ -229,7 +229,8 @@ Best Practices** @ Milano Frontend:
 [FETI](http://www.frontenders.ch)
 
 ## Social links
+You can view them running `$ npx noriste` too 😁
+
 [Twitter](https://twitter.com/NoriSte) - [LinkedIn](https://www.linkedin.com/in/noriste/) -
 [StackOverflow](https://stackoverflow.com/users/700707/noriste) -
-[NPM](https://www.npmjs.com/settings/noriste/packages) - [my
-CV](https://www.visualcv.com/stefano-magni/) - [Slides.com](https://slides.com/noriste)
+[NPM](https://www.npmjs.com/settings/noriste/packages) - [Resume](https://www.visualcv.com/stefano-magni/) - [Slides.com](https://slides.com/noriste)

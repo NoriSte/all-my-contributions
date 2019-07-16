@@ -1,5 +1,6 @@
 A list of all my contributions ❤️
 
+- [UI Testing Best Practices](#UI-Testing-Best-Practices)
 - [Plugins](#Plugins)
   - [For Cypress](#For-Cypress)
   - [For Gatsby](#For-Gatsby)
@@ -12,6 +13,11 @@ A list of all my contributions ❤️
   - [Talks](#Talks)
   - [Workshops](#Workshops)
 - [Social links](#Social-links)
+
+## UI Testing Best Practices
+I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
+Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
+
 
 ## Plugins
 ### For Cypress

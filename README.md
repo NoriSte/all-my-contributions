@@ -169,6 +169,19 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 
+**Cypress React Devtools**: A working React+Redux app to easily (but MANUALLY) verify if the React devtools are working with the Cypress-controlled browser.
+([GitHub](https://github.com/NoriSte/cypress-react-devtools))
+<br />
+[![Build Status](https://travis-ci.com/NoriSte/cypress-react-devtools.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-react-devtools)
+[![Build
+Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-react-devtools)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Open Source
+Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
+
 **WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
 

@@ -1,18 +1,18 @@
 A list of all my contributions ❤️
 
-- [UI Testing Best Practices](#UI-Testing-Best-Practices)
-- [Plugins](#Plugins)
-  - [For Cypress](#For-Cypress)
-  - [For Gatsby](#For-Gatsby)
-  - [For VS Code](#For-VS-Code)
-- [Other utilities for Conio](#Other-utilities-for-Conio)
-- [Others](#Others)
-- [PRs](#PRs)
-- [Answering on StackOverflow](#Answering-on-StackOverflow)
-- [Speaker](#Speaker)
-  - [Talks](#Talks)
-  - [Workshops](#Workshops)
-- [Social links](#Social-links)
+- [UI Testing Best Practices](#ui-testing-best-practices)
+- [Plugins](#plugins)
+  - [For Cypress](#for-cypress)
+  - [For Gatsby](#for-gatsby)
+  - [For VS Code](#for-vs-code)
+- [Other utilities for Conio](#other-utilities-for-conio)
+- [Others](#others)
+- [PRs](#prs)
+- [Answering on StackOverflow](#answering-on-stackoverflow)
+- [Speaker](#speaker)
+  - [Talks](#talks)
+  - [Workshops](#workshops)
+- [Social links](#social-links)
 
 ## UI Testing Best Practices
 I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
@@ -220,7 +220,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 ## Speaker
 ### Talks
 
-**Masteting UI Testing** @ Working Software conference:
+**Mastering UI Testing** @ Working Software conference:
 [Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
 [Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing)
 

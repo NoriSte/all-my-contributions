@@ -188,6 +188,8 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 ## PRs
 
+**Cypress Testing Library**: Cypress commands return jQuery objects ([GitHub](https://github.com/testing-library/cypress-testing-library/pull/62))
+
 **Cypress**: Fix the cy.stub TypeScript signature ([GitHub](https://github.com/cypress-io/cypress/pull/4302))
 
 **Gatsby Brotli and Zopfli plugins**: Allow placing the files in a dedicated directory ([GitHub

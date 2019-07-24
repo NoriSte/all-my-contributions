@@ -212,10 +212,12 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 ## Answering on StackOverflow
 
-**Redux Saga Login tests**: The Redux Saga documentation example... tested
-([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
+**Black box testing Redux Saga**: My Redux Saga testing proposal ([StackOverflow](https://stackoverflow.com/questions/55734309/im-struggling-to-test-this-redux-saga/56017095#56017095))
 
 **Cypress Mousemove issue**: The simplest code to show a strange mouse-related Cypress behaviour ([GitHub](https://github.com/NoriSte/cypress-mousemove-issue))
+
+**Redux Saga Login tests**: The Redux Saga documentation example... tested
+([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
 
 ## Speaker
 ### Talks

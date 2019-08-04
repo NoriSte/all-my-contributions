@@ -124,7 +124,7 @@ marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increas
 ## Other utilities for [Conio](https://conio.com/it/)
 
 **URL Content Changes Checker**: A Node.js script to read and visually compare a remote resource
-body ([GitHub](https://github.com/NoriSte/url-content-changes-checker) - [NPM](https://www.npmjs.com/package/url-content-changes-checker))
+body ([NPM](https://www.npmjs.com/package/url-content-changes-checker) - [GitHub](https://github.com/NoriSte/url-content-changes-checker))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/url-content-changes-checker.svg?branch=master)](https://travis-ci.com/NoriSte/url-content-changes-checker)
 [![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/url-content-changes-checker)
@@ -152,6 +152,7 @@ Status](https://coveralls.io/repos/github/NoriSte/bitcoin-address-soft-regex-val
 [![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/typescript-is-type)
 [![Coverage
 Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)](https://coveralls.io/github/NoriSte/typescript-is-type)
+[![Mutation testing badge](https://badge.stryker-mutator.io/github.com/NoriSte/typescript-is-type/master)](https://stryker-mutator.github.io)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 

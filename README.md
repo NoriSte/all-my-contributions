@@ -227,13 +227,13 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 ## Articles
 
-**Front-end productivity boost: Cypress as your main development browser** - Productivity, productivity, and productivity: how you should leverage a testing tool like Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk))
+**Front-end productivity boost: Cypress as your main development browser** - Productivity, productivity, and productivity: how you should leverage a testing tool like Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
 
-**The concept of “Monitoring Tests”** - Small E2E tests that check little (but crucial) technical details ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j))
+**The concept of “Monitoring Tests”** - Small E2E tests that check little (but crucial) technical details ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
 
-**Component vs (UI) Integration vs E2E tests** - UI tests classification ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d))
+**Component vs (UI) Integration vs E2E tests** - UI tests classification ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
 
-**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o))
+**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/))
 
 **React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
 

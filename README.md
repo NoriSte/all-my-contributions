@@ -23,6 +23,22 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 ## Plugins
 ### For Cypress
 
+**Cypress Wait Until**:
+Allows to recursively wait until something happens, proudly made during an [Open Source
+Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
+([NPM](https://www.npmjs.com/package/cypress-wait-until) -
+[GitHub](https://github.com/NoriSte/cypress-wait-until))
+<br />
+[![Build Status](https://travis-ci.com/NoriSte/cypress-wait-until.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-wait-until)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-wait-until)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![NPM downloads](https://img.shields.io/npm/dw/cypress-wait-until?color=CB3836)](https://www.npmjs.com/package/cypress-wait-until)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+[![Open Source
+Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
+
 **Cypress Protobuf**
 Encodes a Cypress fixture with Protocol Buffers ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
 <br />
@@ -44,22 +60,7 @@ Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://trav
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<br />
 
-**Cypress Wait Until**:
-Allows to recursively wait until something happens, proudly made during an [Open Source
-Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
-([NPM](https://www.npmjs.com/package/cypress-wait-until) -
-[GitHub](https://github.com/NoriSte/cypress-wait-until))
-<br />
-[![Build Status](https://travis-ci.com/NoriSte/cypress-wait-until.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-wait-until)
-[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-wait-until)
-[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
-[![Open Source
-Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 
 ### For Gatsby
 

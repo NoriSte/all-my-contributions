@@ -82,14 +82,13 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 **Gatsby Iubenda Cookie Footer**:
 Adds the Iubenda's cookie policy banner to a Gatsby website
-([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
-[![Build
-Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
+[![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+<br />
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNoriSte%2Fgatsby-plugin-iubenda-cookie-footer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNoriSte%2Fgatsby-plugin-iubenda-cookie-footer?ref=badge_shield)
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 

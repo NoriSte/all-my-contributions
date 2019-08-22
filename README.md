@@ -196,6 +196,8 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 
 ## PRs
 
+**Applitools Eyes Storybook**: Fix storybook 5 support ([GitHub](https://github.com/applitools/eyes-storybook/pull/23))
+
 **Cypress Testing Library**: Cypress commands return jQuery objects ([GitHub](https://github.com/testing-library/cypress-testing-library/pull/62))
 
 **Cypress**: Fix the cy.stub TypeScript signature ([GitHub](https://github.com/cypress-io/cypress/pull/4302))

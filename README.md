@@ -8,6 +8,7 @@ A list of all my contributions ❤️
 - [Other utilities for Conio](#other-utilities-for-conio)
 - [Others](#others)
 - [PRs](#prs)
+- [Useful Gists](#useful-gists)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Articles](#articles)
 - [Speaker](#speaker)
@@ -219,6 +220,18 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 **Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6))
 
+
+## Useful Gists
+
+**NPM as a project dependency**: running `npm run` from a JavaScript file importing NPM ([Gist](https://gist.github.com/NoriSte/0900e44b1a5e7854eb2f1c254eb26763))
+<br />
+**TypeScript and React PropTypes**: useful resources ([Gist](https://gist.github.com/NoriSte/c478bbcad9a83e7854d3748606c9f848))
+<br />
+**Redux Saga TypeScript typeguard**: implementing typeguard for Axios AJAX requests ([Gist](https://gist.github.com/NoriSte/936096262be7af6b6bd4cba7a71640d9))
+<br />
+**Listing package.json scripts** ([Gist](https://gist.github.com/NoriSte/c9edb4e56dce4a609b1df3265fbb13af))
+<br />
+**Git diff to archive** ([Gist](https://gist.github.com/NoriSte/a5de5b24893879995e44b7a69d443f08))
 
 ## Answering on StackOverflow
 

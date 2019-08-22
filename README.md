@@ -293,6 +293,12 @@ Best Practices** @ Milano Frontend (
 ## Social links
 You can view them running `$ npx noriste` too 😁
 
-[Twitter](https://twitter.com/NoriSte) - [LinkedIn](https://www.linkedin.com/in/noriste/) -
+[Twitter](https://twitter.com/NoriSte) -
+[LinkedIn](https://www.linkedin.com/in/noriste/) -
 [StackOverflow](https://stackoverflow.com/users/700707/noriste) -
-[NPM](https://www.npmjs.com/settings/noriste/packages) - [Resume](https://www.visualcv.com/stefano-magni/) - [Slides.com](https://slides.com/noriste) - [Medium](https://medium.com/@NoriSte) - [Dev.to](https://dev.to/noriste)
+[Medium](https://medium.com/@NoriSte) -
+[Dev.to](https://dev.to/noriste)
+[NPM](https://www.npmjs.com/settings/noriste/packages) -
+[Slides.com](https://slides.com/noriste) -
+[Sourcerer](https://sourcerer.io/noriste) -
+[Resume](https://www.visualcv.com/stefano-magni/)

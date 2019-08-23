@@ -296,7 +296,7 @@ You can view them running `$ npx noriste` too 😁
 [LinkedIn](https://www.linkedin.com/in/noriste/) -
 [StackOverflow](https://stackoverflow.com/users/700707/noriste) -
 [Medium](https://medium.com/@NoriSte) -
-[Dev.to](https://dev.to/noriste)
+[Dev.to](https://dev.to/noriste) -
 [NPM](https://www.npmjs.com/settings/noriste/packages) -
 [Slides.com](https://slides.com/noriste) -
 [Sourcerer](https://sourcerer.io/noriste) -

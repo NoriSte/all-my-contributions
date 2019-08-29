@@ -16,8 +16,11 @@ A list of all my contributions ❤️
   - [Workshops](#workshops)
 - [Social links](#social-links)
 
+## React Testing 101 course
+I and [@Kandros](https://github.com/kandros) are currently working on a [React Testing course](https://2019.reactjsday.it/workshops/react-testing-101.html) for the biggest Italian React event: the [ReactJSDay conference](https://2019.reactjsday.it).
+
 ## UI Testing Best Practices
-I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
+In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
 
 

@@ -192,6 +192,8 @@ Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://trav
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
+**gitbook-plugin-head-append**: A GitBook plugin to append code to the `<head>` of the GitBook pages. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ([GitHub](https://github.com/noriste/gitbook-plugin-head-append) - [NPM](https://www.npmjs.com/package/gitbook-plugin-head-append))
+
 
 **WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))

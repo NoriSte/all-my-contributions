@@ -17,7 +17,8 @@ A list of all my contributions ❤️
 
 
 ## Instructor
-<span id="workshops"></span>
+<img src="assets/reactjsday-course.png" style="width:100%;max-width:300px;display:block;" />
+
 **React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Book](https://noriste.github.io/reactjsday-2019-testing-course/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 
 **E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -

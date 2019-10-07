@@ -55,7 +55,7 @@ Best Practices** @ Milano Frontend (
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
 
-## UI Testing Best Practices
+## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
 In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
 
@@ -81,7 +81,7 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 Allows to recursively wait until something happens, proudly made during an [Open Source
 Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 ([NPM](https://www.npmjs.com/package/cypress-wait-until) -
-[GitHub](https://github.com/NoriSte/cypress-wait-until))
+[GitHub](https://github.com/NoriSte/cypress-wait-until)) ![repository stars](https://img.shields.io/github/stars/noriste/cypress-wait-until?style=social)
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/cypress-wait-until.svg?branch=master)](https://travis-ci.com/NoriSte/cypress-wait-until)
 [![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/cypress-wait-until)

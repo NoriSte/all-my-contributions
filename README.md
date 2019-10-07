@@ -1,5 +1,7 @@
 A list of all my contributions ❤️
 
+- [Instructor](#instructor)
+- [Speaker](#speaker)
 - [UI Testing Best Practices](#ui-testing-best-practices)
 - [Plugins](#plugins)
   - [For Cypress](#for-cypress)
@@ -11,17 +13,70 @@ A list of all my contributions ❤️
 - [Useful Gists](#useful-gists)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Articles](#articles)
-- [Speaker](#speaker)
-  - [Talks](#talks)
-  - [Workshops](#workshops)
 - [Social links](#social-links)
 
-## React Testing 101 course
-I and [@Kandros](https://github.com/kandros) are currently working on a [React Testing course](https://2019.reactjsday.it/workshops/react-testing-101.html) for the biggest Italian React event: the [ReactJSDay conference](https://2019.reactjsday.it).
+
+## Instructor
+<span id="workshops"></span>
+**React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Book](https://noriste.github.io/reactjsday-2019-testing-course/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
+
+**E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
+[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
+[FETI](http://www.frontenders.ch))
+
+---
+
+## Speaker
+<span id="talks"></span>
+**Mastering UI Testing** @ Voxxed Days Ticino (
+[Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
+[Conference](https://voxxeddays.com/ticino/))
+
+**Mastering UI Testing** @ Working Software conference (
+[Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
+[Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing))
+
+**UI Testing
+Best Practices** @ FEVR (
+[Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
+[Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [Recording (Italian)](https://www.facebook.com/matteoguidotto/videos/10219953432210058) - [FEVR](http://www.fevr.it))
+
+**UI Testing
+Best Practices** @ Milano Frontend (
+[Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
+[Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
+
+**E2E Testing with Jest and Puppeteer** @ Como Front End (
+[Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
+[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/))
+
+**E2E Testing with Jest and Puppeteer** @ PugMI (
+[Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
+[Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
+
+---
 
 ## UI Testing Best Practices
 In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
+
+---
+
+## Articles
+
+**Who watches the watchmen? Mutation testing in action** - Test effectiveness measurement ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
+
+**Front-end productivity boost: Cypress as your main development browser** - Productivity, productivity, and productivity: how you should leverage a testing tool like Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
+
+**The concept of “Monitoring Tests”** - Small E2E tests that check little (but crucial) technical details ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
+
+**Component vs (UI) Integration vs E2E tests** - UI tests classification ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
+
+**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/) - [Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/))
+
+**React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
+
+---
 
 
 ## Plugins
@@ -248,51 +303,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **Redux Saga Login tests**: The Redux Saga documentation example... tested
 ([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
 
-## Articles
-
-**Who watches the watchmen? Mutation testing in action** - Test effectiveness measurement ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
-
-**Front-end productivity boost: Cypress as your main development browser** - Productivity, productivity, and productivity: how you should leverage a testing tool like Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
-
-**The concept of “Monitoring Tests”** - Small E2E tests that check little (but crucial) technical details ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
-
-**Component vs (UI) Integration vs E2E tests** - UI tests classification ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
-
-**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/) - [Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/))
-
-**React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
-
-
-## Speaker
-### Talks
-
-**Mastering UI Testing** @ Working Software conference (
-[Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
-[Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing))
-
-**UI Testing
-Best Practices** @ FEVR (
-[Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
-[Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [Recording (Italian)](https://www.facebook.com/matteoguidotto/videos/10219953432210058) - [FEVR](http://www.fevr.it))
-
-**UI Testing
-Best Practices** @ Milano Frontend (
-[Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
-[Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
-
-**E2E Testing with Jest and Puppeteer** @ Como Front End (
-[Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
-[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/))
-
-**E2E Testing with Jest and Puppeteer** @ PugMI (
-[Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
-[Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
-
-### Workshops
-
-**E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
-[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
-[FETI](http://www.frontenders.ch))
+---
 
 ## Social links
 You can view them running `$ npx noriste` too 😁

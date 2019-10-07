@@ -24,7 +24,6 @@ A list of all my contributions ❤️
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
 [FETI](http://www.frontenders.ch))
 
----
 
 ## Speaker
 <span id="talks"></span>
@@ -54,13 +53,11 @@ Best Practices** @ Milano Frontend (
 [Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
----
 
 ## UI Testing Best Practices
 In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
 
----
 
 ## Articles
 
@@ -75,9 +72,6 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 **Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/) - [Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/))
 
 **React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
-
----
-
 
 ## Plugins
 ### For Cypress
@@ -303,7 +297,6 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **Redux Saga Login tests**: The Redux Saga documentation example... tested
 ([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
 
----
 
 ## Social links
 You can view them running `$ npx noriste` too 😁

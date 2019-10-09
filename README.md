@@ -62,6 +62,10 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 ## Articles
 
+<!-- **TITLE** - SUBTITLE ([Medium](MEDIUMLINK) - [dev.to](DEVTOLINK) - [LinkedIn](LINKEDINLINK)) -->
+
+**New to front-end testing? Start from the top of the pyramid!** - An easier approach to get immediate results (and satisfaction) from the front-end testing world. ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni))
+
 **Who watches the watchmen? Mutation testing in action** - Test effectiveness measurement ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
 
 **Front-end productivity boost: Cypress as your main development browser** - Productivity, productivity, and productivity: how you should leverage a testing tool like Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))

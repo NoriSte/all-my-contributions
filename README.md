@@ -64,7 +64,7 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 <!-- **TITLE** - SUBTITLE ([Medium](MEDIUMLINK) - [dev.to](DEVTOLINK) - [LinkedIn](LINKEDINLINK)) -->
 
-**New to front-end testing? Start from the top of the pyramid!** - An easier approach to get immediate results (and satisfaction) from the front-end testing world. ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni))
+**New to front-end testing? Start from the top of the pyramid!** - An easier approach to get immediate results (and satisfaction) from the front-end testing world. ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
 
 **Who watches the watchmen? Mutation testing in action** - Test effectiveness measurement ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
 
@@ -74,7 +74,7 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 **Component vs (UI) Integration vs E2E tests** - UI tests classification ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
 
-**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/) - [Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/))
+**Await, do not make your E2E tests sleep** - Sleeping: the worst practice in E2E testing and the concept of Deterministic Events ([Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/) - [Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/))
 
 **React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
 

@@ -313,5 +313,4 @@ You can view them running `$ npx noriste` too 😁
 [Dev.to](https://dev.to/noriste) -
 [NPM](https://www.npmjs.com/settings/noriste/packages) -
 [Slides.com](https://slides.com/noriste) -
-[Sourcerer](https://sourcerer.io/noriste) -
-[Resume](https://www.visualcv.com/stefano-magni/)
+[Sourcerer](https://sourcerer.io/noriste)

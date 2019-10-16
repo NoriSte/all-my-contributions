@@ -208,6 +208,7 @@ bitcoin address (Base58 and Bech32) validation
 [![Coverage
 Status](https://coveralls.io/repos/github/NoriSte/bitcoin-address-soft-regex-validation/badge.svg?branch=master)](https://coveralls.io/github/NoriSte/bitcoin-address-soft-regex-validation?branch=master)
 [![Mutation testing badge](https://badge.stryker-mutator.io/github.com/NoriSte/bitcoin-address-soft-regex-validation/master)](https://stryker-mutator.github.io)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8dc4369cd25aefe4870e/maintainability)](https://codeclimate.com/github/NoriSte/bitcoin-address-soft-regex-validation/maintainability)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 **Typescript Is Type**: A Typescript-safe runtime type check function
@@ -220,6 +221,7 @@ Status](https://coveralls.io/repos/github/NoriSte/bitcoin-address-soft-regex-val
 Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)](https://coveralls.io/github/NoriSte/typescript-is-type)
 [![Mutation testing badge](https://badge.stryker-mutator.io/github.com/NoriSte/typescript-is-type/master)](https://stryker-mutator.github.io)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a6ff58769fe0c4a9e8b9/maintainability)](https://codeclimate.com/github/NoriSte/typescript-is-type/maintainability)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 ## Others

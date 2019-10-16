@@ -7,7 +7,7 @@ A list of all my contributions ❤️
   - [For Cypress](#for-cypress)
   - [For Gatsby](#for-gatsby)
   - [For VS Code](#for-vs-code)
-- [Other utilities for Conio](#other-utilities-for-conio)
+- [Other utilities](#other-utilities)
 - [Others](#others)
 - [PRs](#prs)
 - [Useful Gists](#useful-gists)
@@ -15,8 +15,8 @@ A list of all my contributions ❤️
 - [Articles](#articles)
 - [Social links](#social-links)
 
-
 ## Instructor
+
 <img src="assets/reactjsday-course.png" style="width:100%;max-width:300px;display:block;" />
 
 **React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Book](https://noriste.github.io/reactjsday-2019-testing-course/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
@@ -25,8 +25,8 @@ A list of all my contributions ❤️
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
 [FETI](http://www.frontenders.ch))
 
-
 ## Speaker
+
 <span id="talks"></span>
 **Mastering UI Testing** @ Voxxed Days Ticino (
 [Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
@@ -54,13 +54,14 @@ Best Practices** @ Milano Frontend (
 [Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
-
 ## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
+
 In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
 
-
 ## Articles
+
+**Launching “\$ npm run” programmatically with `npm.run()`** - No need for child_process.exec() etc. Pre and post scripts are respected too. ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
 
 **New to front-end testing? Start from the top of the pyramid!** - An easier approach to get immediate results (and satisfaction) from the front-end testing world. ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
 
@@ -77,6 +78,7 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 **React Hooks Memorandum** ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
 
 ## Plugins
+
 ### For Cypress
 
 **Cypress Wait Until**:
@@ -108,7 +110,6 @@ Status](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://tr
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 **Cypress OTP**: Allows to enter a valid OTP token in your UI tests
 ([NPM](https://www.npmjs.com/package/cypress-otp) -
 [GitHub](https://github.com/NoriSte/cypress-otp))
@@ -119,7 +120,6 @@ Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://trav
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 
 ### For Gatsby
 
@@ -180,7 +180,14 @@ Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/elle
 marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increase-by-1) -
 [GitHub](https://github.com/NoriSte/increase-by-1))
 
-## Other utilities for [Conio](https://conio.com/it/)
+<span id="other-utilities-for-conio"></span>
+
+## Other utilities
+
+**nprr**: npm run + autocomplete 🚀 ([NPM](https://www.npmjs.com/package/nprr) - [GitHub](https://github.com/NoriSte/nprr))
+<br />
+[![Build Status](https://travis-ci.com/NoriSte/nprr.svg?branch=master)](https://travis-ci.com/NoriSte/nprr) [![Coverage Status](https://coveralls.io/repos/github/NoriSte/nprr/badge.svg?branch=master)](https://coveralls.io/github/NoriSte/nprr?branch=feature/nprr) [![Mutation testing badge](https://badge.stryker-mutator.io/github.com/NoriSte/nprr/master)](https://stryker-mutator.github.io) [![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/nprr)
+<br />[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Known Vulnerabilities](https://snyk.io/test/github/noriste/nprr/badge.svg)](https://snyk.io/test/github/noriste/nprr)
 
 **URL Content Changes Checker**: A Node.js script to read and visually compare a remote resource
 body ([NPM](https://www.npmjs.com/package/url-content-changes-checker) - [GitHub](https://github.com/NoriSte/url-content-changes-checker))
@@ -231,7 +238,6 @@ Status](https://coveralls.io/repos/github/NoriSte/typescript-is-type/badge.svg)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
-
 **Cypress React Devtools**: A working React+Redux app to easily (but MANUALLY) verify if the React devtools are working with the Cypress-controlled browser.
 ([GitHub](https://github.com/NoriSte/cypress-react-devtools))
 <br />
@@ -243,13 +249,10 @@ Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://trav
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 **gitbook-plugin-head-append**: A GitBook plugin to append code to the `<head>` of the GitBook pages. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ([GitHub](https://github.com/noriste/gitbook-plugin-head-append) - [NPM](https://www.npmjs.com/package/gitbook-plugin-head-append))
-
 
 **WhatsApp Messages Batch**: An easy way to write WhatsApp messages in advance and batch 'em all
 ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
-
 
 ## PRs
 
@@ -267,7 +270,7 @@ Brotli](https://github.com/ovhemert/gatsby-plugin-brotli/pull/6) - [GitHub Zopfl
 **Percy Cypress**: Add TypeScript types ([GitHub](https://github.com/percy/percy-cypress/pull/96))
 
 **Reveal.js (and slides.com too, obviously) on touch devices**: Remove the thin area between the
-down arrow and the  progress bar ([GitHub](https://github.com/hakimel/reveal.js/pull/2410) - [Open
+down arrow and the progress bar ([GitHub](https://github.com/hakimel/reveal.js/pull/2410) - [Open
 Source Saturday](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)) [![Open Source
 Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturday-F64060.svg)](https://www.meetup.com/it-IT/Open-Source-Saturday-Milano/)
 
@@ -275,7 +278,6 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 ([GitHub](https://github.com/gatsbyjs/gatsby/pull/13424))
 
 **Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6))
-
 
 ## Useful Gists
 
@@ -300,8 +302,8 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 **Redux Saga Login tests**: The Redux Saga documentation example... tested
 ([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
 
-
 ## Social links
+
 You can view them running `$ npx noriste` too 😁
 
 [Twitter](https://twitter.com/NoriSte) -

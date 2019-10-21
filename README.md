@@ -30,7 +30,7 @@ A list of all my contributions ❤️
 <span id="talks"></span>
 **Mastering UI Testing** @ Voxxed Days Ticino (
 [Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
-[Conference](https://voxxeddays.com/ticino/))
+[Conference](https://voxxeddays.com/ticino/) - [Recording](https://www.youtube.com/watch?v=RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP))
 
 **Mastering UI Testing** @ Working Software conference (
 [Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -

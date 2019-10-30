@@ -21,37 +21,31 @@ A list of all my contributions ❤️
 
 **React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Book](https://noriste.github.io/reactjsday-2019-testing-course/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 
-**E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
-[Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) -
+**E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
+[Meetup](https://www.meetup.com/it-IT/FrontEnders-Ticino/events/258183736/) - [Repository](https://github.com/NoriSte/feti-workshop-e2e-testing-with-puppeteer) -
 [FETI](http://www.frontenders.ch))
 
 ## Speaker
 
 <span id="talks"></span>
-**Mastering UI Testing** @ Voxxed Days Ticino (
-[Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
+**Mastering UI Testing** @ Voxxed Days Ticino ([Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
 [Conference](https://voxxeddays.com/ticino/) - [Recording](https://www.youtube.com/watch?v=RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP))
 
-**Mastering UI Testing** @ Working Software conference (
-[Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
+**Mastering UI Testing** @ Working Software conference ([Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
 [Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing))
 
 **UI Testing
-Best Practices** @ FEVR (
-[Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
+Best Practices** @ FEVR ([Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
 [Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [Recording (Italian)](https://www.facebook.com/matteoguidotto/videos/10219953432210058) - [FEVR](http://www.fevr.it))
 
 **UI Testing
-Best Practices** @ Milano Frontend (
-[Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
+Best Practices** @ Milano Frontend ([Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
 [Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
 
-**E2E Testing with Jest and Puppeteer** @ Como Front End (
-[Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
+**E2E Testing with Jest and Puppeteer** @ Como Front End ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/))
 
-**E2E Testing with Jest and Puppeteer** @ PugMI (
-[Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
+**E2E Testing with Jest and Puppeteer** @ PugMI ([Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
 ## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)

@@ -33,7 +33,9 @@ A list of all my contributions ❤️
 
 2019
 
-**Breaking the fear of front-end testing** @ Uqido ([Slides]() - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com))
+**Breaking the fear of front-end testing** @ JavaScript Community Day ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-20m) - [Event](https://www.eventbrite.it/e/biglietti-javascript-community-day-73099501577#) - [Javascript - developer Italiani](https://www.facebook.com/groups/javascript.developer.italiani/))
+
+**Breaking the fear of front-end testing** @ Uqido ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com))
 
 **Mastering UI Testing** @ Voxxed Days Ticino ([Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
 [Conference](https://voxxeddays.com/ticino/) - [Recording](https://www.youtube.com/watch?v=RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP))
@@ -56,6 +58,7 @@ Best Practices** @ Milano Frontend ([Slides](https://slides.com/noriste/milano-f
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
 <span id="ui-testing-best-practices"></span>
+
 ## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
 
 In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.

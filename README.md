@@ -35,13 +35,13 @@ A list of all my contributions ❤️
 
 **Breaking the fear of front-end testing** @ JavaScript Community Day ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-20m) - [Event](https://www.eventbrite.it/e/biglietti-javascript-community-day-73099501577#) - [Javascript - developer Italiani](https://www.facebook.com/groups/javascript.developer.italiani/))
 
-**Breaking the fear of front-end testing** @ Uqido ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com))
+**Breaking the fear of front-end testing** @ Uqido ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com) - [Article and recording (in Italian)](https://tech.uqido.com/2019/11/21/breaking-the-fear-of-front-end-testing-uqido-talks-about/))
 
 **Mastering UI Testing** @ Voxxed Days Ticino ([Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
 [Conference](https://voxxeddays.com/ticino/) - [Recording](https://www.youtube.com/watch?v=RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP))
 
 **Mastering UI Testing** @ Working Software conference ([Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
-[Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing))
+[Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing) - [Recording](https://vimeo.com/352893293))
 
 **UI Testing
 Best Practices** @ FEVR ([Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
@@ -143,7 +143,8 @@ Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://trav
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 **Gatsby Iubenda Cookie Footer**:
-Adds the Iubenda's cookie policy banner to a Gatsby website
+Adds the Iubenda's cookie policy banner to a Gatsby website ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
+[GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 <br />
 [![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)
 [![Build Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-iubenda-cookie-footer)

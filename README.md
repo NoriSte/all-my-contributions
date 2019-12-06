@@ -66,6 +66,8 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 ## Articles
 
+**Software tests as a documentation tool** - Why tests are perfect to tell a story of your code. ([Medium](https://medium.com/@NoriSte/software-tests-as-a-documentation-tool-e1c463bad1be) - [dev.to](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) - [LinkedIn](https://www.linkedin.com/pulse/software-tests-documentation-tool-stefano-magni))
+
 **Launching “\$ npm run” programmatically with `npm.run()`** - No need for child_process.exec() etc. Pre and post scripts are respected too. ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
 
 **New to front-end testing? Start from the top of the pyramid!** - An easier approach to get immediate results (and satisfaction) from the front-end testing world. ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))

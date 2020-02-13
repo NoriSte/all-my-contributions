@@ -2,6 +2,9 @@
   "ignorePatterns": [
     {
       "pattern": "https://www.linkedin.com/in/noriste/"
+    },
+    {
+      "pattern": "https://vimeo.com/352893293"
     }
   ]
 }

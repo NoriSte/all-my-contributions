@@ -1,5 +1,3 @@
 language: node_js
-node_js:
-  - 10
 script:
-  - rm -rf test && mkdir test && npx markdown README.md > test/readme.html && npx link-checker test --url-ignore "#" --url-ignore "linkedin" --url-ignore "increase-by-1" --http-status-ignore 301 --http-status-ignore 302
+  - npx markdown-link-check ./README.md -p -c test/config.json

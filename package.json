@@ -1,0 +1,26 @@
+{
+  "name": "all-my-contributions",
+  "version": "1.0.0",
+  "description": "A list of all my contributions ❤️",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx markdown-link-check ./README.md -p -c test/config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoriSte/all-my-contributions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoriSte/all-my-contributions/issues"
+  },
+  "homepage": "https://github.com/NoriSte/all-my-contributions#readme",
+  "devDependencies": {
+    "markdown-link-check": "^3.8.0"
+  }
+}

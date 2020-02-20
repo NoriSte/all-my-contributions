@@ -19,7 +19,7 @@ A list of all my contributions ❤️
 
 <img src="assets/reactjsday-course.png" style="width:100%;max-width:300px;display:block;" />
 
-**React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Book](https://noriste.github.io/reactjsday-2019-testing-course/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
+**React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 
 **Front-end Testing week** @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
 
@@ -31,30 +31,44 @@ A list of all my contributions ❤️
 
 <span id="talks"></span>
 
-2019
+**Front-end testing on steroids**
 
-**Breaking the fear of front-end testing** @ JavaScript Community Day ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-20m) - [Event](https://www.eventbrite.it/e/biglietti-javascript-community-day-73099501577#) - [Javascript - developer Italiani](https://www.facebook.com/groups/javascript.developer.italiani/))
+- Mar, 2020 - London's CityJSConf ([Conference](https://cityjsconf.org/home))
 
-**Breaking the fear of front-end testing** @ Uqido ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com) - [Article and recording (in Italian)](https://tech.uqido.com/2019/11/21/breaking-the-fear-of-front-end-testing-uqido-talks-about/))
+**Breaking the fear of front-end testing**
 
-**Mastering UI Testing** @ Voxxed Days Ticino ([Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
+- Feb, 2020 - Milano Frontend ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) -
+[Meetup](https://www.meetup.com/it-IT/milano-front-end/events/268795702/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
+
+- Feb, 2020 - Como Front End ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) -
+[Meetup](https://www.meetup.com/it-IT/Como-CaFE/events/266806426/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/))
+
+- Nov, 2019 - JavaScript Community Day ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-20m) - [Event](https://www.eventbrite.it/e/biglietti-javascript-community-day-73099501577#) - [Javascript - developer Italiani](https://www.facebook.com/groups/javascript.developer.italiani/))
+
+- Nov, 2019 -  Uqido ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) - [Event](https://www.eventbrite.it/e/biglietti-breaking-the-fear-of-front-end-testing-uqido-talks-about-79136099203#) - [Uqido](https://www.uqido.com) - [Article and recording (in Italian)](https://tech.uqido.com/2019/11/21/breaking-the-fear-of-front-end-testing-uqido-talks-about/))
+
+**Mastering UI Testing**
+
+- Oct, 2019 - Voxxed Days Ticino ([Slides](https://slides.com/noriste/voxxed-days-ticino-2019-mastering-ui-testing#/) -
 [Conference](https://voxxeddays.com/ticino/) - [Recording](https://www.youtube.com/watch?v=RwWz4hllDtg&list=PLRsbF2sD7JVorYibvQrrG34UQ6YE3PaVP))
 
-**Mastering UI Testing** @ Working Software conference ([Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
+
+- Jul, 2019 -  Working Software conference ([Slides](https://slides.com/noriste/working-software-2019-mastering-ui-testing) -
 [Conference](https://www.agilemovement.it/workingsoftware/) - [Companion repository](https://github.com/NoriSte/working-software-mastering-ui-testing) - [Recording](https://vimeo.com/352893293))
 
 **UI Testing
-Best Practices** @ FEVR ([Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
+Best Practices**
+- Jun, 2019 - FEVR ([Slides](https://slides.com/noriste/fevr-ui-testing-best-practices) -
 [Meetup](http://www.fevr.it/eventi/2019/06/ui-testing-best-practices/) - [Recording (Italian)](https://www.facebook.com/matteoguidotto/videos/10219953432210058) - [FEVR](http://www.fevr.it))
 
-**UI Testing
-Best Practices** @ Milano Frontend ([Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
+- May, 2019 -  Milano Frontend ([Slides](https://slides.com/noriste/milano-frontend-ui-testing-best-practices#/) -
 [Meetup](https://www.meetup.com/it-IT/milano-front-end/events/256620617/) - [Recording (Italian)](https://www.facebook.com/milanofrontendmeetup/videos/2312725798938924/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
 
-**E2E Testing with Jest and Puppeteer** @ Como Front End ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
+**E2E Testing with Jest and Puppeteer**
+- Feb, 2019 - Como Front End ([Slides](https://slides.com/noriste/e2e-testing-workshop-cafe#/) -
 [Meetup](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/events/259556783/) - [Cafe](https://www.meetup.com/it-IT/Como-and-Frontend-CaFE/))
 
-**E2E Testing with Jest and Puppeteer** @ PugMI ([Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
+- Jan, 2019 - PugMI ([Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
 [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
 <span id="ui-testing-best-practices"></span>

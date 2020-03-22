@@ -3,6 +3,7 @@ A list of all my contributions ❤️
 - [Instructor](#instructor)
 - [Speaker](#speaker)
 - [UI Testing Best Practices](#ui-testing-best-practices)
+- [Articles](#articles)
 - [Plugins](#plugins)
   - [For Cypress](#for-cypress)
   - [For Gatsby](#for-gatsby)
@@ -12,7 +13,7 @@ A list of all my contributions ❤️
 - [PRs](#prs)
 - [Useful Gists](#useful-gists)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
-- [Articles](#articles)
+- [Inspiration](#inspiration)
 - [Social links](#social-links)
 
 ## Instructor
@@ -329,6 +330,14 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 **Redux Saga Login tests**: The Redux Saga documentation example... tested
 ([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
+
+## Inspiration
+
+I got inspired by:
+
+- Quincy Larson's [skills/reputation/network tweet](https://mobile.twitter.com/ossia/status/1079942716480344065?s=19)
+- Shawn Wang's [Learn In Public](https://www.swyx.io/writing/learn-in-public/)
+- Kent C. Dodds' [Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building/)
 
 ## Social links
 

@@ -34,7 +34,13 @@ A list of all my contributions ❤️
 
 **Front-end testing on steroids**
 
-- Mar, 2020 - London's CityJSConf ([Conference](https://cityjsconf.org/home))
+- Sep, 2020 (remote talk) - London's CityJSConf ([Conference](https://cityjsconf.org/home))
+
+- June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/))
+
+- May, 2020 (remote talk) - JS Monthly London ([Meetup](https://www.meetup.com/it-IT/js-monthly/events/270355422/))
+
+- May, 2020 (remote talk) - Vienna's TestBustersNight ([Slides](https://slides.com/noriste/frontend-testing-on-steroids) - [Meetup](https://www.meetup.com/it-IT/Agile-Test-Automation-Meetup-VIENNA/events/268191187/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids))
 
 **Breaking the fear of front-end testing**
 

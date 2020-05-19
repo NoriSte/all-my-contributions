@@ -88,6 +88,8 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 ## Articles
 
+**Unit Testing React components with Cypress** - Cypress 4.5.0 is out with a long-awaited feature: first-class support for framework’s components render. ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))
+
 **Testing a Virtual List component with Cypress and Storybook** - The challenges coming from integrating the tools, the current status of integration, and some best practices to properly test a rendered component. ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))
 
 **Some UI testing problems and the Cypress way** - Why is testing a web application so hard? Why generic browser automation tools do not fit well the UI/E2E testing needs? Why does Cypress outstand? ([Medium](https://medium.com/@NoriSte/some-ui-testing-problems-and-the-cypress-way-22312ab986e3) - [dev.to](https://dev.to/noriste/some-ui-testing-problems-and-the-cypress-way-1167))
@@ -349,13 +351,9 @@ I got inspired by:
 
 ## Social links
 
-You can view them running `$ npx noriste` too 😁
-
-[Twitter](https://twitter.com/NoriSte) -
-[LinkedIn](https://www.linkedin.com/in/noriste/) -
-[StackOverflow](https://stackoverflow.com/users/700707/noriste) -
-[Medium](https://medium.com/@NoriSte) -
-[Dev.to](https://dev.to/noriste) -
-[NPM](https://www.npmjs.com/settings/noriste/packages) -
-[Slides.com](https://slides.com/noriste) -
-[Sourcerer](https://sourcerer.io/noriste)
+- Follow me on [Twitter](https://twitter.com/NoriSte) or [LinkedIn](https://www.linkedin.com/in/noriste/)
+- Find my articles on [Medium](https://medium.com/@NoriSte) and [Dev.to](https://dev.to/noriste) and my slides on [Slides.com](https://slides.com/noriste)
+- Find my published packages on [NPM](https://www.npmjs.com/settings/noriste/packages)
+- Read everything about me in a timeline-style on [StackOverflow](https://stackoverflow.com/users/700707/noriste)
+- Look at the technologies I have worked with on [Sourcerer](https://sourcerer.io/noriste)
+- Or simply run `$ npx noriste` 😁

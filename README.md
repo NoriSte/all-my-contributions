@@ -38,7 +38,7 @@ A list of all my contributions ❤️
 
 - June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/))
 
-- May, 2020 (remote talk) - JS Monthly London ([Meetup](https://www.meetup.com/it-IT/js-monthly/events/270355422/))
+- May, 2020 (remote talk) - JS Monthly London ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Meetup](https://www.meetup.com/it-IT/js-monthly/events/270355422/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids-v2))
 
 - May, 2020 (remote talk) - Vienna's TestBustersNight ([Slides](https://slides.com/noriste/frontend-testing-on-steroids) - [Meetup](https://www.meetup.com/it-IT/Agile-Test-Automation-Meetup-VIENNA/events/268191187/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids))
 

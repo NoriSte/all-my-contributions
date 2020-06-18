@@ -88,6 +88,8 @@ Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-tes
 
 ## Articles
 
+**UI Tests Debugging Best Practices** - A series of best practices that ease the test writing and debugging phases while using Puppeteer and other browser automation tools. ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
+
 **Unit Testing React components with Cypress** - Cypress 4.5.0 is out with a long-awaited feature: first-class support for framework’s components render. ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))
 
 **Testing a Virtual List component with Cypress and Storybook** - The challenges coming from integrating the tools, the current status of integration, and some best practices to properly test a rendered component. ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))

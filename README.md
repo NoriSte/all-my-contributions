@@ -36,7 +36,7 @@ A list of all my contributions ❤️
 
 - Sep, 2020 (remote talk) - London's CityJSConf ([Conference](https://cityjsconf.org/home))
 
-- June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/))
+- June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/) - [Recording (in Italian on a closed Facebook group)](https://www.facebook.com/groups/javascript.developer.italiani/permalink/660294644522845/))
 
 - May, 2020 (remote talk) - JS Monthly London ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Meetup](https://www.meetup.com/it-IT/js-monthly/events/270355422/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids-v2) - [Recording](https://www.youtube.com/watch?v=PA2m6exjMtw))
 

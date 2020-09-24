@@ -32,9 +32,13 @@ A list of all my contributions ❤️
 
 <span id="talks"></span>
 
+**Deepening a thing at a time**
+
+- Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/))
+
 **Front-end testing on steroids**
 
-- Sep, 2020 (remote talk) - London's CityJSConf ([Conference](https://cityjsconf.org/home))
+- Sep, 2020 (remote talk) - London's CityJSConf ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Conference](https://cityjsconf.org/home) - [Recording](https://youtu.be/sP7dtZm_Wx0?t=19410))
 
 - June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/) - [Recording (in Italian on a closed Facebook group)](https://www.facebook.com/groups/javascript.developer.italiani/permalink/660294644522845/))
 

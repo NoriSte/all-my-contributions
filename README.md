@@ -34,7 +34,7 @@ A list of all my contributions ❤️
 
 **Deepening a thing at a time**
 
-- Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/))
+- Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/) - [Recording](https://www.youtube.com/watch?v=3VPbOZ6jhc4))
 
 **Front-end testing on steroids**
 

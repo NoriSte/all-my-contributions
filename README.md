@@ -48,6 +48,8 @@ A list of all my contributions ❤️
 
 **Breaking the fear of front-end testing**
 
+- Jan, 2021 (remote talk) - RomaJS ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-vertical) - [Conference](https://cityjsconf.org/home) - [Meetup](https://www.meetup.com/RomaJS/events/275625814/))
+
 - Feb, 2020 - Milano Frontend ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) -
   [Meetup](https://www.meetup.com/it-IT/milano-front-end/events/268795702/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))
 

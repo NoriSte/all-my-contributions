@@ -1,8 +1,8 @@
 A list of all my contributions ❤️
 
+- [UI Testing Best Practices](#ui-testing-best-practices)
 - [Instructor](#instructor)
 - [Speaker](#speaker)
-- [UI Testing Best Practices](#ui-testing-best-practices)
 - [Articles](#articles)
 - [Plugins](#plugins)
   - [For Cypress](#for-cypress)
@@ -15,6 +15,15 @@ A list of all my contributions ❤️
 - [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Inspiration](#inspiration)
 - [Social links](#social-links)
+
+
+<span id="ui-testing-best-practices"></span>
+
+<img src="assets/ui-testing-best-practices.jpg" style="width:100%;max-width:300px;display:block;" />
+
+## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
+
+I created a GitHub repository/book, [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices), aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 
 ## Instructor
 
@@ -85,12 +94,7 @@ Best Practices**
 - Jan, 2019 - PugMI ([Slides](https://slides.com/noriste/e2e-testing-talk-grusp#/) -
   [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
-<span id="ui-testing-best-practices"></span>
 
-## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
-
-In my spare time, I'm working on a big GitHub repository/book aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
-Take a look at the [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) repository. Do you want to contribute? You're more than welcome! 🤗
 
 ## Articles
 

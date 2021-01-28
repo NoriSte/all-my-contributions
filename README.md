@@ -43,6 +43,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 **Deepening a thing at a time**
 
+- Jan 2021 (remote talk) - FEVR ([Slides](https://slides.com/noriste/keep-calm-and-forget-fomo) -
+  [Meetup](https://www.fevr.it/eventi/2021/01/keep-calm-and-forget-fomo/) - [Recording (in Italian)](https://www.facebook.com/matteoguidotto/videos/10225351965330012?t=960) - [FEVR](http://www.fevr.it) - [Slide style](https://twitter.com/NoriSte/status/1354801517178437633))
+
 - Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/) - [Recording](https://www.youtube.com/watch?v=3VPbOZ6jhc4))
 
 **Front-end testing on steroids**
@@ -57,7 +60,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 **Breaking the fear of front-end testing**
 
-- Jan, 2021 (remote talk) - RomaJS ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-vertical) - [Conference](https://cityjsconf.org/home) - [Meetup](https://www.meetup.com/RomaJS/events/275625814/))
+- Jan, 2021 (remote talk) - RomaJS ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing-vertical) - [Conference](https://cityjsconf.org/home) - [Meetup](https://www.meetup.com/RomaJS/events/275625814/) - [Recording (in Italian)](https://youtu.be/8DZ3rlVh3Rg?t=522))
 
 - Feb, 2020 - Milano Frontend ([Slides](https://slides.com/noriste/breaking-the-fear-of-front-end-testing) -
   [Meetup](https://www.meetup.com/it-IT/milano-front-end/events/268795702/) - [Milano Frontend](https://www.meetup.com/it-IT/milano-front-end/))

@@ -27,9 +27,13 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
+(Coming soon) **Cypress course** @ [Educative.io](https://www.educative.io/)
+
+**Javascript Testing, a Practical Approach** @ [Apropos](https://www.apropos.srl)
+
 <img src="assets/reactjsday-course.png" style="width:100%;max-width:300px;display:block;" />
 
-**React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay ([Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
+**React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 
 **Front-end Testing week** @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
 

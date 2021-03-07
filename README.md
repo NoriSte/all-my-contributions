@@ -219,18 +219,6 @@ Add a `<link rel="preconnect">` for every specified domain
 [![Open Source
 Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![npm](https://img.shields.io/npm/dm/gatsby-plugin-preconnect?color=CB3836)
 
-**Gatsby Preload Link Crossorigin**:
-Adds the crossorigin attribute to every `<link rel="preload">`
-([NPM](https://www.npmjs.com/package/gatsby-plugin-preload-link-crossorigin) -
-[GitHub](https://github.com/NoriSte/gatsby-plugin-preload-link-crossorigin) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preload-link-crossorigin/))
-<br />
-[![Build Status](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin.svg?branch=master)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
-[![Build
-Cron](https://img.shields.io/badge/build%20cron-weekly-44cc11.svg)](https://travis-ci.com/NoriSte/gatsby-plugin-preload-link-crossorigin)
-[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Open Source
-Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### For VS Code
 

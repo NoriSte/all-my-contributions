@@ -27,6 +27,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
+(Coming soon) **Front-end Testing on Steroids** @ [Allegro](https://allegro.pl/)
+
 (Coming soon) **Cypress course** @ [Educative.io](https://www.educative.io/)
 
 **Javascript Testing, a Practical Approach** @ [Apropos](https://www.apropos.srl)

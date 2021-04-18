@@ -105,6 +105,8 @@ Best Practices**
 
 ## Articles
 
+**Creating a book-driven course: is it worthwhile?** - Writing a book containing a whole course that helps the instructor in case of jams and allows the attendees to follow the course at their own pace. Why? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
+
 **Choose what NOT to study and focus on one thing at a time** - Being a jack-of-all-trades does not pay in terms of satisfaction nor deep knowledge, here you can find my experience as a front-end developer that chosen to focus on one thing for at least one month. ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
 
 **UI Tests Debugging Best Practices** - A series of best practices that ease the test writing and debugging phases while using Puppeteer and other browser automation tools. ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))

@@ -111,6 +111,8 @@ Best Practices**
 
 **Choose what NOT to study and focus on one thing at a time** - Being a jack-of-all-trades does not pay in terms of satisfaction nor deep knowledge, here you can find my experience as a front-end developer that chosen to focus on one thing for at least one month. ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
 
+**Reimplementing the core Recoil’s APIs for fun and learning** - I’m always eager to explore learning paths  but I was still missing re-implementing APIs. ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
+
 **UI Tests Debugging Best Practices** - A series of best practices that ease the test writing and debugging phases while using Puppeteer and other browser automation tools. ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
 
 **Unit Testing React components with Cypress** - Cypress 4.5.0 is out with a long-awaited feature: first-class support for framework’s components render. ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))

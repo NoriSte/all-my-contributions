@@ -27,12 +27,12 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
-- (Coming soon) **Front-end Testing on Steroids** @ [Allegro](https://allegro.pl/)
-- (Coming soon) **Cypress course** @ [Educative.io](https://www.educative.io/)
-- **Javascript Testing, a Practical Approach** @ [Apropos](https://www.apropos.srl)
-- **React Testing 101: component, integration, and end-to-end testing** @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
-- **Front-end Testing week** @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
-- **E2E Testing with Puppeteer** @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
+- (Coming soon) Front-end Testing on Steroids @ [Allegro](https://allegro.pl/)
+- (Coming soon) Cypress course @ [Educative.io](https://www.educative.io/)
+- Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl)
+- React Testing 101: component, integration, and end-to-end testing @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
+- Front-end Testing week @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
+- E2E Testing with Puppeteer @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
 [Meetup](https://www.meetup.com/it-IT/FrontEnders-Ticino/events/258183736/) - [Repository](https://github.com/NoriSte/feti-workshop-e2e-testing-with-puppeteer) -
 [FETI](http://www.frontenders.ch))
 

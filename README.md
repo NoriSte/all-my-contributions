@@ -4,14 +4,8 @@ A list of all my contributions ❤️
 - [Instructor](#instructor)
 - [Speaker](#speaker)
 - [Articles](#articles)
-- [Plugins](#plugins)
-  - [For Cypress](#for-cypress)
-  - [For Gatsby](#for-gatsby)
-  - [For VS Code](#for-vs-code)
-- [Other utilities](#other-utilities)
-- [Others](#others)
-- [PRs](#prs)
-- [Useful Gists](#useful-gists)
+- [Plugins and utilities](#plugins-and-utilities)
+- [Gists](#gists)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Inspiration](#inspiration)
 - [Social links](#social-links)
@@ -98,9 +92,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Await, do not make your E2E tests sleep  ([Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/) - [Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/))
 - React Hooks Memorandum ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
 
-## Plugins
-
-### For Cypress
+## Plugins and utilities
 
 - Cypress Wait Until ([NPM](https://www.npmjs.com/package/cypress-wait-until)
 [GitHub](https://github.com/NoriSte/cypress-wait-until)) ![repository stars](https://img.shields.io/github/stars/noriste/cypress-wait-until?style=social)
@@ -110,9 +102,6 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 - Cypress Protobuf ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
 - Cypress OTP ([NPM](https://www.npmjs.com/package/cypress-otp) -
 [GitHub](https://github.com/NoriSte/cypress-otp)) ![npm](https://img.shields.io/npm/dm/cypress-otp?color=CB3836)
-
-### For Gatsby
-
 - Gatsby Perfume.js ([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-perfume.js/))
 - Gatsby Iubenda Cookie Footer
@@ -122,28 +111,17 @@ Adds the Iubenda's cookie policy banner to a Gatsby website ([NPM](https://www.n
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preconnect) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-preconnect) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-preconnect/))
 ![npm](https://img.shields.io/npm/dm/gatsby-plugin-preconnect?color=CB3836)
-
-
-### For VS Code
-
-- Increase by 1 ([VS Code
+- VSCode Increase by 1 ([VS Code
 marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increase-by-1) -
 [GitHub](https://github.com/NoriSte/increase-by-1))
-
 <span id="other-utilities-for-conio"></span>
-
-## Other utilities
-
 - nprr ([NPM](https://www.npmjs.com/package/nprr) - [GitHub](https://github.com/NoriSte/nprr))
 - Bitcoin Address Soft Regex Validation
 ([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) -
 [GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
-## Others
-
 - Cypress React Devtools ([GitHub](https://github.com/NoriSte/cypress-react-devtools))
 - gitbook-plugin-head-append ([GitHub](https://github.com/noriste/gitbook-plugin-head-append) - [NPM](https://www.npmjs.com/package/gitbook-plugin-head-append))
-- WhatsApp Messages Batch: An easy way to write WhatsApp messages in advance and batch 'em all
-([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
+- WhatsApp Messages Batch ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
 
 <!-- ## PRs
 
@@ -170,7 +148,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 
 **Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6)) -->
 
-## Useful Gists
+## Gists
 
 - NPM as a project dependency ([Gist](https://gist.github.com/NoriSte/0900e44b1a5e7854eb2f1c254eb26763))
 - TypeScript and React PropTypes ([Gist](https://gist.github.com/NoriSte/c478bbcad9a83e7854d3748606c9f848))

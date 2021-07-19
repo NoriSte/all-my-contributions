@@ -21,8 +21,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
-- (Coming soon) Front-end Testing on Steroids @ [Allegro](https://allegro.pl/)
-- (Coming soon) Cypress course @ [Educative.io](https://www.educative.io/)
+- Front-end testing on steroids with Cypress @ JSDay ([Course description](https://2021.jsday.it/workshop/front-end-testing.html) - [Conference](https://2021.jsday.it/))
+- Cypress course @ [Educative.io](https://www.educative.io/collection/10370001/5983729156096000)
 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl)
 - React Testing 101: component, integration, and end-to-end testing @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 - Front-end Testing week @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
@@ -40,6 +40,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/) - [Recording](https://www.youtube.com/watch?v=3VPbOZ6jhc4))
 
 **Front-end testing on steroids**
+- Jul, 2021 (remote talk) - Web Marketing Festival ([Slides](https://slides.com/noriste/wmf-cypress-talk-no-green-screen) - [Conference](https://www.webmarketingfestival.it/))
 - Apr, 2020 (remote talk) - Fabio Biondi's Twitch ([Post](https://www.facebook.com/groups/fabiobiondi.training/permalink/1059756944429975/) - [Recording (in Italian)](https://www.twitch.tv/videos/993502982))
 - Sep, 2020 (remote talk) - London's CityJSConf ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Conference](https://cityjsconf.org/home) - [Recording](https://youtu.be/sP7dtZm_Wx0?t=19410))
 - June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/) - [Recording (in Italian on a closed Facebook group)](https://www.facebook.com/groups/javascript.developer.italiani/permalink/660294644522845/))
@@ -77,9 +78,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
-- Migrating a 150K LOC codebase to Vite and ESBuild: Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
-- Migrating a 150K LOC codebase to Vite and ESBuild: How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
 - Migrating a 150K LOC codebase to Vite and ESBuild: Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))
+- Migrating a 150K LOC codebase to Vite and ESBuild: How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
+- Migrating a 150K LOC codebase to Vite and ESBuild: Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
 - Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
 - Choose what NOT to study and focus on one thing at a time ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
 - Reimplementing the core Recoil’s APIs for fun and learning ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
@@ -99,7 +100,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Plugins and utilities
 
-- Cypress Wait Until ([NPM](https://www.npmjs.com/package/cypress-wait-until)
+- Cypress Wait Until ([NPM](https://www.npmjs.com/package/cypress-wait-until) -
 [GitHub](https://github.com/NoriSte/cypress-wait-until)) ![repository stars](https://img.shields.io/github/stars/noriste/cypress-wait-until?style=social)
 [![NPM downloads](https://img.shields.io/npm/dm/cypress-wait-until?color=CB3836)](https://www.npmjs.com/package/cypress-wait-until)
 [![Open Source

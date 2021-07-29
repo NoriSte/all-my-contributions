@@ -21,12 +21,13 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
-- Front-end testing on steroids with Cypress @ JSDay ([Course description](https://2021.jsday.it/workshop/front-end-testing.html) - [Conference](https://2021.jsday.it/))
-- Cypress course @ [Educative.io](https://www.educative.io/collection/10370001/5983729156096000)
-- Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl)
-- React Testing 101: component, integration, and end-to-end testing @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
-- Front-end Testing week @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
-- E2E Testing with Puppeteer @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
+- Jul, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
+- Jul, 2021 - Front-end testing on steroids with Cypress @ JSDay ([Course description](https://2021.jsday.it/workshop/front-end-testing.html) - [Conference](https://2021.jsday.it/))
+- Apr, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
+- Jun, 2020 - Cypress course @ [Educative.io](https://www.educative.io/collection/10370001/5983729156096000)
+- Oct, 2019 - Front-end Testing week @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
+- Oct, 2019 - React Testing 101: component, integration, and end-to-end testing @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
+- Dec, 2018 - E2E Testing with Puppeteer @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
 [Meetup](https://www.meetup.com/it-IT/FrontEnders-Ticino/events/258183736/) - [Repository](https://github.com/NoriSte/feti-workshop-e2e-testing-with-puppeteer) -
 [FETI](http://www.frontenders.ch))
 
@@ -34,8 +35,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 <span id="talks"></span>
 
 **Deepening a thing at a time**
-- Jun 2021 - Ticino  Software Craft ([Slides](https://slides.com/noriste/front-end-testing-on-steroids-ticino-software-craft) - [Meetup](https://www.meetup.com/it-IT/Ticino-Software-Craft/events/277959960/))
-- Jan 2021 (remote talk) - FEVR ([Slides](https://slides.com/noriste/keep-calm-and-forget-fomo) -
+- Jun, 2021 (remote talk) - Ticino  Software Craft ([Slides](https://slides.com/noriste/front-end-testing-on-steroids-ticino-software-craft) - [Meetup](https://www.meetup.com/it-IT/Ticino-Software-Craft/events/277959960/))
+- Jan, 2021 (remote talk) - FEVR ([Slides](https://slides.com/noriste/keep-calm-and-forget-fomo) -
   [Meetup](https://www.fevr.it/eventi/2021/01/keep-calm-and-forget-fomo/) - [Recording (in Italian)](https://www.facebook.com/matteoguidotto/videos/10225351965330012?t=960) - [FEVR](http://www.fevr.it) - [Making transparent slides](https://twitter.com/NoriSte/status/1354801517178437633))
 - Sep, 2020 (remote talk) - Cypress UK Community ([Slides](https://slides.com/noriste/deepening-a-thing-at-a-time) - [Meetup](https://www.meetup.com/it-IT/Cypress-io-UK-Community/events/273279564/) - [Recording](https://www.youtube.com/watch?v=3VPbOZ6jhc4))
 
@@ -43,7 +44,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Jul, 2021 (remote talk) - Web Marketing Festival ([Slides](https://slides.com/noriste/wmf-cypress-talk-no-green-screen) - [Conference](https://www.webmarketingfestival.it/))
 - Apr, 2020 (remote talk) - Fabio Biondi's Twitch ([Post](https://www.facebook.com/groups/fabiobiondi.training/permalink/1059756944429975/) - [Recording (in Italian)](https://www.twitch.tv/videos/993502982))
 - Sep, 2020 (remote talk) - London's CityJSConf ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Conference](https://cityjsconf.org/home) - [Recording](https://youtu.be/sP7dtZm_Wx0?t=19410))
-- June, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/) - [Recording (in Italian on a closed Facebook group)](https://www.facebook.com/groups/javascript.developer.italiani/permalink/660294644522845/))
+- Jun, 2020 (remote talk) - Javascript - developer Italiani ([Facebook group](https://www.facebook.com/groups/javascript.developer.italiani/) - [Recording (in Italian on a closed Facebook group)](https://www.facebook.com/groups/javascript.developer.italiani/permalink/660294644522845/))
 - May, 2020 (remote talk) - JS Monthly London ([Slides](https://slides.com/noriste/frontend-testing-on-steroids-v2) - [Meetup](https://www.meetup.com/it-IT/js-monthly/events/270355422/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids-v2) - [Recording](https://www.youtube.com/watch?v=PA2m6exjMtw))
 - May, 2020 (remote talk) - Vienna's TestBustersNight ([Slides](https://slides.com/noriste/frontend-testing-on-steroids) - [Meetup](https://www.meetup.com/it-IT/Agile-Test-Automation-Meetup-VIENNA/events/268191187/) - [Companion repository](https://github.com/NoriSte/frontend-testing-on-steroids))
 

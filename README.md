@@ -24,7 +24,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Jul, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
 - Jul, 2021 - Front-end testing on steroids with Cypress @ JSDay ([Course description](https://2021.jsday.it/workshop/front-end-testing.html) - [Conference](https://2021.jsday.it/))
 - Apr, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
-- Jun, 2020 - Cypress course @ [Educative.io](https://www.educative.io/collection/10370001/5983729156096000)
+- Jun, 2020 - Cypress course @ [Educative.io](https://www.educative.io/courses/front-end-testing-integration)
 - Oct, 2019 - Front-end Testing week @ Talent Garden's CodeMaster 2019 (w/ [Giacomo Zinetti](https://github.com/gcmznt) - [Course website](https://talentgarden.org/it/innovation-school/corsi/full-time/codemaster/))
 - Oct, 2019 - React Testing 101: component, integration, and end-to-end testing @ ReactJSDay (w/ [Jaga Santagostino](https://jagasantagostino.com/) - [Course description](https://2019.reactjsday.it/workshops/react-testing-101.html) - [Conference](https://2019.reactjsday.it/))
 - Dec, 2018 - E2E Testing with Puppeteer @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -

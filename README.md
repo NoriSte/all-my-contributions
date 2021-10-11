@@ -80,6 +80,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
+#### 2021
+- Support the Reviewers with detailed Pull Request descriptions ([Medium](https://noriste.medium.com/support-the-reviewers-with-a-detailed-pull-request-description-52178a8f8dfa) - [dev.to](https://dev.to/noriste/support-the-reviewers-with-detailed-pull-request-descriptions-2khn))
 - WorkWave RouteManager UI coding patterns
   - Generic ones ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-generic-ones-4iaa))
   - Arrays ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-arrays-1kcn))
@@ -92,12 +94,16 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
   - Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))
 - Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
+
+#### 2020
 - Choose what NOT to study and focus on one thing at a time ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
 - Reimplementing the core Recoil’s APIs for fun and learning ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
 - UI Tests Debugging Best Practices ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
 - Unit Testing React components with Cypress  ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))
 - Testing a Virtual List component with Cypress and Storybook ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))
 - Some UI testing problems and the Cypress way ([Medium](https://medium.com/@NoriSte/some-ui-testing-problems-and-the-cypress-way-22312ab986e3) - [dev.to](https://dev.to/noriste/some-ui-testing-problems-and-the-cypress-way-1167))
+
+#### 2019
 - Software tests as a documentation tool ([Medium](https://medium.com/@NoriSte/software-tests-as-a-documentation-tool-e1c463bad1be) - [dev.to](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) - [LinkedIn](https://www.linkedin.com/pulse/software-tests-documentation-tool-stefano-magni))
 - Launching “\$ npm run” programmatically with `npm.run()` ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
 - New to front-end testing? Start from the top of the pyramid! ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))

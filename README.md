@@ -128,8 +128,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 [GitHub](https://github.com/NoriSte/cypress-otp)) ![npm](https://img.shields.io/npm/dm/cypress-otp?color=CB3836)
 - Gatsby Perfume.js ([NPM](https://www.npmjs.com/package/gatsby-plugin-perfume.js) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-perfume.js) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-perfume.js/))
-- Gatsby Iubenda Cookie Footer
-Adds the Iubenda's cookie policy banner to a Gatsby website ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
+- Gatsby Iubenda Cookie Footer ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 - Gatsby Preconnect
 ([NPM](https://www.npmjs.com/package/gatsby-plugin-preconnect) -

@@ -21,6 +21,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
+- Jan, 2022 - Javascript Testing, a Practical Approach @ [ORS](https://ors.ai/)
 - Aug, 2021 - Javascript Testing, a Practical Approach @ [Neratech](https://neratech.it/)
 - Jul, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
 - Jul, 2021 - Front-end testing on steroids with Cypress @ JSDay ([Course description](https://2021.jsday.it/workshop/front-end-testing.html) - [Conference](https://2021.jsday.it/))

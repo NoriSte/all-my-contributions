@@ -2,8 +2,8 @@ A list of all my contributions ❤️
 
 - [UI Testing Best Practices](#ui-testing-best-practices)
 - [Instructor](#instructor)
-- [Speaker](#speaker)
 - [Articles](#articles)
+- [Speaker](#speaker)
 - [Plugins and utilities](#plugins-and-utilities)
 - [Gists](#gists)
 - [Answering on StackOverflow](#answering-on-stackoverflow)
@@ -32,6 +32,45 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Dec, 2018 - E2E Testing with Puppeteer @ Frontenders Ticino ([Slides](https://slides.com/noriste/e2e-testing-workshop-feti) -
 [Meetup](https://www.meetup.com/it-IT/FrontEnders-Ticino/events/258183736/) - [Repository](https://github.com/NoriSte/feti-workshop-e2e-testing-with-puppeteer) -
 [FETI](http://www.frontenders.ch))
+
+## Articles
+
+#### 2021
+- From unreadable React Component Tests to simple, stupid ones ([dev.to](https://dev.to/noriste/from-unreadable-react-component-tests-to-simple-stupid-ones-3ge6))
+- How I strive for XState machine, types, and tests readability ([Medium](https://noriste.medium.com/how-i-strive-for-xstate-machine-types-and-tests-readability-64df3badea09) - [dev.to](https://dev.to/noriste/how-i-strive-for-xstate-machine-types-and-tests-readability-19f4))
+- Support the Reviewers with detailed Pull Request descriptions ([Medium](https://noriste.medium.com/support-the-reviewers-with-a-detailed-pull-request-description-52178a8f8dfa) - [dev.to](https://dev.to/noriste/support-the-reviewers-with-detailed-pull-request-descriptions-2khn))
+- WorkWave RouteManager UI coding patterns
+  - Generic ones ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-generic-ones-4iaa))
+  - Arrays ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-arrays-1kcn))
+  - TypeScript ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-typescript-42hb))
+  - React ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-38df))
+  - React Hooks ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-hooks-4f7l))
+  - Immutability ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-immutability-5bic))
+- Migrating a 150K LOC codebase to Vite and ESBuild
+  - Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
+  - How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
+  - Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))
+- Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
+
+#### 2020
+- Choose what NOT to study and focus on one thing at a time ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
+- Reimplementing the core Recoil’s APIs for fun and learning ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
+- UI Tests Debugging Best Practices ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
+- Unit Testing React components with Cypress  ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))
+- Testing a Virtual List component with Cypress and Storybook ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))
+- Some UI testing problems and the Cypress way ([Medium](https://medium.com/@NoriSte/some-ui-testing-problems-and-the-cypress-way-22312ab986e3) - [dev.to](https://dev.to/noriste/some-ui-testing-problems-and-the-cypress-way-1167))
+
+#### 2019
+- Software tests as a documentation tool ([Medium](https://medium.com/@NoriSte/software-tests-as-a-documentation-tool-e1c463bad1be) - [dev.to](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) - [LinkedIn](https://www.linkedin.com/pulse/software-tests-documentation-tool-stefano-magni))
+- Launching “\$ npm run” programmatically with `npm.run()` ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
+- New to front-end testing? Start from the top of the pyramid! ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
+- Who watches the watchmen? Mutation testing in action ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
+- Front-end productivity boost: Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
+- The concept of “Monitoring Tests” ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
+- Component vs (UI) Integration vs E2E tests ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
+- Await, do not make your E2E tests sleep  ([Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/) - [Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/))
+- React Hooks Memorandum ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
+
 
 ## Speaker
 <span id="talks"></span>
@@ -78,44 +117,6 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   [Meetup](https://www.meetup.com/it-IT/MilanoPHP/events/256407565/) - [post](https://milano.grusp.org/2018/12/e2e-testing-con-jest-e-puppeteer/) - [pugMI](https://milano.grusp.org))
 
 
-
-## Articles
-
-#### 2021
-- From unreadable React Component Tests to simple, stupid ones ([dev.to](https://dev.to/noriste/from-unreadable-react-component-tests-to-simple-stupid-ones-3ge6))
-- How I strive for XState machine, types, and tests readability ([Medium](https://noriste.medium.com/how-i-strive-for-xstate-machine-types-and-tests-readability-64df3badea09) - [dev.to](https://dev.to/noriste/how-i-strive-for-xstate-machine-types-and-tests-readability-19f4))
-- Support the Reviewers with detailed Pull Request descriptions ([Medium](https://noriste.medium.com/support-the-reviewers-with-a-detailed-pull-request-description-52178a8f8dfa) - [dev.to](https://dev.to/noriste/support-the-reviewers-with-detailed-pull-request-descriptions-2khn))
-- WorkWave RouteManager UI coding patterns
-  - Generic ones ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-generic-ones-4iaa))
-  - Arrays ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-arrays-1kcn))
-  - TypeScript ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-typescript-42hb))
-  - React ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-38df))
-  - React Hooks ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-hooks-4f7l))
-  - Immutability ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-immutability-5bic))
-- Migrating a 150K LOC codebase to Vite and ESBuild
-  - Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
-  - How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
-  - Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))
-- Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
-
-#### 2020
-- Choose what NOT to study and focus on one thing at a time ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
-- Reimplementing the core Recoil’s APIs for fun and learning ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
-- UI Tests Debugging Best Practices ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
-- Unit Testing React components with Cypress  ([Medium](https://medium.com/@NoriSte/unit-testing-react-components-with-cypress-4d4cf8cd59a0) - [dev.to](https://dev.to/noriste/unit-testing-react-components-with-cypress-5fk2))
-- Testing a Virtual List component with Cypress and Storybook ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))
-- Some UI testing problems and the Cypress way ([Medium](https://medium.com/@NoriSte/some-ui-testing-problems-and-the-cypress-way-22312ab986e3) - [dev.to](https://dev.to/noriste/some-ui-testing-problems-and-the-cypress-way-1167))
-
-#### 2019
-- Software tests as a documentation tool ([Medium](https://medium.com/@NoriSte/software-tests-as-a-documentation-tool-e1c463bad1be) - [dev.to](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) - [LinkedIn](https://www.linkedin.com/pulse/software-tests-documentation-tool-stefano-magni))
-- Launching “\$ npm run” programmatically with `npm.run()` ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
-- New to front-end testing? Start from the top of the pyramid! ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
-- Who watches the watchmen? Mutation testing in action ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
-- Front-end productivity boost: Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
-- The concept of “Monitoring Tests” ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
-- Component vs (UI) Integration vs E2E tests ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
-- Await, do not make your E2E tests sleep  ([Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/) - [Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/))
-- React Hooks Memorandum ([Medium](https://medium.com/@NoriSte/react-hooks-memorandum-bf1c2758a672))
 
 ## Plugins and utilities
 

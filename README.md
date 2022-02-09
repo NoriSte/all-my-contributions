@@ -196,6 +196,7 @@ I got inspired by:
 - Quincy Larson's [skills/reputation/network tweet](https://mobile.twitter.com/ossia/status/1079942716480344065?s=19)
 - Shawn Wang's [Learn In Public](https://www.swyx.io/writing/learn-in-public/)
 - Kent C. Dodds' [Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building/)
+- Tim Urban's [Inside the Mind of a Master Procrastinator talk](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en)
 
 ## Social links
 

@@ -75,6 +75,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
+**How I avoid the next developer swearing at my code**
+- Feb, 2022 (remote talk) - Fabio Biondi's Twitch
+
 **Deepening a thing at a time**
 - Jun, 2021 (remote talk) - Ticino  Software Craft ([Slides](https://slides.com/noriste/front-end-testing-on-steroids-ticino-software-craft) - [Meetup](https://www.meetup.com/it-IT/Ticino-Software-Craft/events/277959960/))
 - Jan, 2021 (remote talk) - FEVR ([Slides](https://slides.com/noriste/keep-calm-and-forget-fomo) -

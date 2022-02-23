@@ -36,6 +36,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Articles
 
 #### 2021
+- How I ease the next developer reading my code ([dev.to](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
 - From unreadable React Component Tests to simple, stupid ones ([dev.to](https://dev.to/noriste/from-unreadable-react-component-tests-to-simple-stupid-ones-3ge6))
 - How I strive for XState machine, types, and tests readability ([Medium](https://noriste.medium.com/how-i-strive-for-xstate-machine-types-and-tests-readability-64df3badea09) - [dev.to](https://dev.to/noriste/how-i-strive-for-xstate-machine-types-and-tests-readability-19f4))
 - Support the Reviewers with detailed Pull Request descriptions ([Medium](https://noriste.medium.com/support-the-reviewers-with-a-detailed-pull-request-description-52178a8f8dfa) - [dev.to](https://dev.to/noriste/support-the-reviewers-with-detailed-pull-request-descriptions-2khn))

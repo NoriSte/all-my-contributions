@@ -5,8 +5,6 @@ A list of all my contributions ❤️
 - [Articles](#articles)
 - [Speaker](#speaker)
 - [Plugins and utilities](#plugins-and-utilities)
-- [Gists](#gists)
-- [Answering on StackOverflow](#answering-on-stackoverflow)
 - [Inspiration](#inspiration)
 - [Social links](#social-links)
 
@@ -177,23 +175,6 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 ([GitHub](https://github.com/gatsbyjs/gatsby/pull/13424))
 
 **Jest Mock Console**: Using it for log analysis instead of log suppressing ([GitHub](https://github.com/bpedersen/jest-mock-console/pull/6)) -->
-
-## Gists
-
-- NPM as a project dependency ([Gist](https://gist.github.com/NoriSte/0900e44b1a5e7854eb2f1c254eb26763))
-- TypeScript and React PropTypes ([Gist](https://gist.github.com/NoriSte/c478bbcad9a83e7854d3748606c9f848))
-- Redux Saga TypeScript typeguard requests ([Gist](https://gist.github.com/NoriSte/936096262be7af6b6bd4cba7a71640d9))
-- Listing package.json scripts ([Gist](https://gist.github.com/NoriSte/c9edb4e56dce4a609b1df3265fbb13af))
-- Git diff to archive ([Gist](https://gist.github.com/NoriSte/a5de5b24893879995e44b7a69d443f08))
-
-## Answering on StackOverflow
-
-- Recoil [Recoil questions](https://stackoverflow.com/search?q=user%3A700707+%5Brecoiljs%5D)
-- Black box testing Redux Saga ([StackOverflow](https://stackoverflow.com/questions/55734309/im-struggling-to-test-this-redux-saga/56017095#56017095))
-- React Hooks ([StackOverflow](https://stackoverflow.com/questions/54741142/converting-my-class-based-component-into-functional-components-using-hooks/54741742#54741742))
-- Cypress Mousemove issue ([GitHub](https://github.com/NoriSte/cypress-mousemove-issue))
-- Redux Saga Login tests
-([GitHub](https://github.com/NoriSte/redux-saga-login-react-example))
 
 ## Inspiration
 

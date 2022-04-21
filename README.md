@@ -33,8 +33,11 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
-#### 2021
+#### 2022
+- The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh))
 - Speed up E2E tests for Vite-based apps ([dev.to](https://dev.to/noriste/speed-up-e2e-tests-for-vite-based-apps-3k4l))
+
+#### 2021
 - How I ease the next developer reading my code ([dev.to](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
 - From unreadable React Component Tests to simple, stupid ones ([dev.to](https://dev.to/noriste/from-unreadable-react-component-tests-to-simple-stupid-ones-3ge6))
 - How I strive for XState machine, types, and tests readability ([Medium](https://noriste.medium.com/how-i-strive-for-xstate-machine-types-and-tests-readability-64df3badea09) - [dev.to](https://dev.to/noriste/how-i-strive-for-xstate-machine-types-and-tests-readability-19f4))

@@ -19,6 +19,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor
 
+- Apr, 2022 - Javascript Testing, a Practical Approach @ [Shopware](https://www.shopware.com/)
 - Jan, 2022 - Javascript Testing, a Practical Approach @ [ORS](https://ors.ai/)
 - Aug, 2021 - Javascript Testing, a Practical Approach @ [Neratech](https://neratech.it/)
 - Jul, 2021 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)

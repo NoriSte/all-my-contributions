@@ -35,7 +35,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Articles
 
 #### 2022
-- My take on Snapshot Testing ([dev.to](https://dev.to/noriste/my-take-on-snapshot-testing-19k6))
+- My take on Snapshot Testing ([Medium](https://noriste.medium.com/my-take-on-snapshot-testing-b90178e6151f) - [dev.to](https://dev.to/noriste/my-take-on-snapshot-testing-19k6))
 - Keeping TypeScript Type Guards safe and up to date (a simpler solution) ([dev.to](https://dev.to/noriste/keeping-typescript-type-guards-safe-and-up-to-date-a-simpler-solution-ja3))
 - The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh))
 - Speed up E2E tests for Vite-based apps ([dev.to](https://dev.to/noriste/speed-up-e2e-tests-for-vite-based-apps-3k4l))

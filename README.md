@@ -35,6 +35,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Articles
 
 #### 2022
+- A Case History: Analysing Hasura Console's code review process ([dev.to](https://dev.to/noriste/a-case-history-analysing-hasura-consoles-code-review-process-45kk))
 - Hasura Console UI coding patterns
   - Testing ([dev.to](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d))
 - My take on Snapshot Testing ([Medium](https://noriste.medium.com/my-take-on-snapshot-testing-b90178e6151f) - [dev.to](https://dev.to/noriste/my-take-on-snapshot-testing-19k6))

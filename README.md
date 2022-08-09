@@ -35,6 +35,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Articles
 
 #### 2022
+- Re-building a branch and telling a story to ease the Code Review ([dev.to](https://dev.to/noriste/re-building-a-branch-and-telling-a-story-to-ease-the-code-review-485o))
 - A Case History: Analysing Hasura Console's code review process ([dev.to](https://dev.to/noriste/a-case-history-analysing-hasura-consoles-code-review-process-45kk))
 - Hasura Console UI coding patterns
   - Testing ([dev.to](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d))

@@ -87,8 +87,13 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
+
 **How I avoid the next developer swearing at my code**
+- Oct, 2022 - ReactJSDay ([Slides](https://slides.com/noriste/reactjsday-2022) - [Conference](https://2022.reactjsday.it/) - [Related article](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
 - Feb, 2022 (remote talk) - Fabio Biondi's Twitch ([Recording (in Italian)](https://youtu.be/ip-4LOaxjSA?t=968) - [Code](https://github.com/NoriSte/how-i-avoid-the-next-developer-swearing-at-my-code-talk-v1))
+
+**Testing Best Practices**
+- Oct, 2022 - ReactJS Milano ([Slides](https://slides.com/noriste/reactjs-milano-2022) - [Meetup](https://www.meetup.com/it-IT/react-js-milano/events/288495189/) - [Related article](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d) - [Recording (in Italian)](https://www.youtube.com/watch?v=AohdFAexbXY))
 
 **Deepening a thing at a time**
 - Jun, 2021 (remote talk) - Ticino  Software Craft ([Slides](https://slides.com/noriste/front-end-testing-on-steroids-ticino-software-craft) - [Meetup](https://www.meetup.com/it-IT/Ticino-Software-Craft/events/277959960/))

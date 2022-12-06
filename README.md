@@ -35,6 +35,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Articles
 
 #### 2022
+
+- Improving Hasura's Internal PR Review process ([dev.to](https://dev.to/noriste/improving-hasuras-internal-pr-review-process-1ham) - [Hasura blog](https://hasura.io/blog/improving-hasuras-internal-pr-review-process/))
 - Decouple the back-end and front-end test through Contract Testing ([dev.to](https://dev.to/noriste/decouple-the-back-end-and-front-end-test-through-contract-testing-112k))
 - Re-building a branch and telling a story to ease the Code Review ([dev.to](https://dev.to/noriste/re-building-a-branch-and-telling-a-story-to-ease-the-code-review-485o))
 - A Case History: Analysing Hasura Console's code review process ([dev.to](https://dev.to/noriste/a-case-history-analysing-hasura-consoles-code-review-process-45kk))

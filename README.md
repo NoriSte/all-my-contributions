@@ -162,13 +162,13 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 marketplace](https://marketplace.visualstudio.com/items?itemName=noriste.increase-by-1) -
 [GitHub](https://github.com/NoriSte/increase-by-1))
 <span id="other-utilities-for-conio"></span>
-- nprr ([NPM](https://www.npmjs.com/package/nprr) - [GitHub](https://github.com/NoriSte/nprr))
 - Bitcoin Address Soft Regex Validation
 ([NPM](https://www.npmjs.com/package/bitcoin-address-soft-regex-validation) -
 [GitHub](https://github.com/NoriSte/bitcoin-address-soft-regex-validation))
 - Cypress React Devtools ([GitHub](https://github.com/NoriSte/cypress-react-devtools))
 - gitbook-plugin-head-append ([GitHub](https://github.com/noriste/gitbook-plugin-head-append) - [NPM](https://www.npmjs.com/package/gitbook-plugin-head-append))
 - WhatsApp Messages Batch ([GitHub](https://github.com/NoriSte/whatsapp-messages-batch))
+- ~nprr~ (_Deprecated! Please check out https://fig.io/ or https://github.com/antfu/ni as possible alternatives_) ([NPM](https://www.npmjs.com/package/nprr) - [GitHub](https://github.com/NoriSte/nprr))
 
 <!-- ## PRs
 

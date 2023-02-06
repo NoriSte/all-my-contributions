@@ -34,6 +34,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
+#### 2023
+
+- One long E2E test or small, independent, ones? ([dev.to](https://dev.to/noriste/one-long-e2e-test-or-small-independent-ones-33ao))
 #### 2022
 
 - Improving Hasura's Internal PR Review process ([dev.to](https://dev.to/noriste/improving-hasuras-internal-pr-review-process-1ham) - [Hasura blog](https://hasura.io/blog/improving-hasuras-internal-pr-review-process/))

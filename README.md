@@ -36,6 +36,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2023
 
+- Hasura E2E tests chronicles, February 2023 ([dev.to](https://dev.to/noriste/hasura-e2e-tests-chronicles-february-2023-24ki))
 - Improving UI tests' code with debugging in mind ([dev.to](https://dev.to/noriste/improving-ui-testss-code-to-ease-debugging-them-later-2478))
 - One long E2E test or small, independent, ones? ([dev.to](https://dev.to/noriste/one-long-e2e-test-or-small-independent-ones-33ao))
 #### 2022

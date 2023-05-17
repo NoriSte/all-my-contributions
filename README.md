@@ -100,7 +100,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Feb, 2023 - Continuous Testing Meetup Berlin ([Slides](https://slides.com/noriste/hasuras-console-e2e-tests-chronicles) - [Recording](https://www.youtube.com/watch?v=bmLHDCp4t6g) - [Meetup](https://www.meetup.com/it-IT/continuous-testing-meetup-berlin/events/291298303/) - [Related article](https://dev.to/noriste/hasura-e2e-tests-chronicles-february-2023-24ki))
 
 **How I avoid the next developer swearing at my code**
-- Oct, 2022 - ReactJSDay ([Slides](https://slides.com/noriste/reactjsday-2022) - [Conference](https://2022.reactjsday.it/) - [Related article](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
+- Oct, 2022 - ReactJSDay ([Recording](https://www.youtube.com/watch?v=7e2XIrxNE5E) - [Slides](https://slides.com/noriste/reactjsday-2022) - [Conference](https://2022.reactjsday.it/) - [Related article](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
 - Feb, 2022 (remote talk) - Fabio Biondi's Twitch ([Recording (in Italian)](https://youtu.be/ip-4LOaxjSA?t=968) - [Code](https://github.com/NoriSte/how-i-avoid-the-next-developer-swearing-at-my-code-talk-v1))
 
 **Testing Best Practices**

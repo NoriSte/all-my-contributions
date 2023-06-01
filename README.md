@@ -38,6 +38,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2023
 
+- Some things I learnt from working on big frontend codebases ([dev.to](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a))
 - Frontend Platform use case - Acting before a real Product need ([dev.to](https://dev.to/noriste/frontend-platform-use-case-acting-before-a-real-product-need-c38))
 - Frontend Platform use case - Enabling features and hiding the distribution problems ([dev.to](https://dev.to/noriste/frontend-platform-use-case-enabling-features-and-hiding-the-distribution-problems-12mi))
 - Frontend Platform use case - Creating a roadmap without a Product Manager ([dev.to](https://dev.to/noriste/frontend-platform-use-case-creating-a-roadmap-without-a-product-manager-2fdd))

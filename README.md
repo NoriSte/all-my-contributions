@@ -17,8 +17,12 @@ A list of all my contributions ❤️
 
 I created a GitHub repository/book, [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices), aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 
-## Instructor
+## Instructor/Consultant
 
+- June, 2023 - Automatic frontend code generator @ [Platformatic](https://platformatic.dev/)
+- May, 2023 - Frontend project assessment @ [Jointly](https://www.jointly.pro/)
+- Apr, 2023 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl/) / [Accenture](https://www.accenture.com/it-it)
+- Apr, 2023 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
 - Apr, 2023 - Javascript Testing, a Practical Approach @ [Plannix](https://www.lixiinvest.com/plannix)
 - Apr, 2023 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl) / [Accenture](https://www.accenture.com/it-it)
 - Apr, 2022 - Javascript Testing, a Practical Approach @ [Shopware](https://www.shopware.com/)

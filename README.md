@@ -75,7 +75,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - React Hooks ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-hooks-4f7l))
   - Immutability ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-immutability-5bic))
   - Redux Saga ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-redux-saga-4lem#create-frontendoriented-requests))
-- Migrating a 150K LOC codebase to Vite and ESBuild
+- Migrating a 150K LOC codebase to Vite and ESBuild - ⭐️ *The first article out there about migrating a big codebase to Vite*
   - Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
   - How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
   - Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))

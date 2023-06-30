@@ -167,6 +167,7 @@ Saturday](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open%20source%20saturd
 - Cypress Protobuf ([NPM](https://www.npmjs.com/package/cypress-protobuf) - [GitHub](https://github.com/NoriSte/cypress-protobuf))
 - Cypress OTP ([NPM](https://www.npmjs.com/package/cypress-otp) -
 [GitHub](https://github.com/NoriSte/cypress-otp)) ![npm](https://img.shields.io/npm/dm/cypress-otp?color=CB3836)
+- Platformatic CLI `frontend` command ([GitHub](https://github.com/platformatic/platformatic/pull/1043) - [Platformatic docs](https://oss.platformatic.dev/docs/reference/cli/#frontend))
 - Gatsby Iubenda Cookie Footer ([NPM](https://www.npmjs.com/package/gatsby-plugin-iubenda-cookie-footer) -
 [GitHub](https://github.com/NoriSte/gatsby-plugin-iubenda-cookie-footer) - [Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-iubenda-cookie-footer/))
 - Gatsby Preconnect

@@ -104,8 +104,11 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
+**Some things I learnt from working on big frontend codebases**
+- Aug, 2023 - [Educative.io](https://www.educative.io/) webinar ([Recording](https://www.youtube.com/watch?v=bmLHDCp4t6g) (requires login) - [Related article](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a))
+
 **The long road to remove the flakiness from the Hasura Console E2E tests**
-- Feb, 2023 - Continuous Testing Meetup Berlin ([Slides](https://slides.com/noriste/hasuras-console-e2e-tests-chronicles) - [Recording](https://www.youtube.com/watch?v=bmLHDCp4t6g) - [Meetup](https://www.meetup.com/it-IT/continuous-testing-meetup-berlin/events/291298303/) - [Related article](https://dev.to/noriste/hasura-e2e-tests-chronicles-february-2023-24ki))
+- Feb, 2023 - Continuous Testing Meetup Berlin ([Slides](https://slides.com/noriste/hasuras-console-e2e-tests-chronicles) - [Recording](https://app.livestorm.co/educativeinc/optimizing-large-codebases-lessons-learned-scaling-internet-scale-frontends/live#/) - [Related article](https://dev.to/noriste/hasura-e2e-tests-chronicles-february-2023-24ki))
 
 **How I avoid the next developer swearing at my code**
 - Oct, 2022 - ReactJSDay ([Recording](https://www.youtube.com/watch?v=7e2XIrxNE5E) - [Slides](https://slides.com/noriste/reactjsday-2022) - [Conference](https://2022.reactjsday.it/) - [Related article](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))

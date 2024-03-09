@@ -167,6 +167,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Plugins and utilities
 
+- Figma Select and Inspect ([Figma Community](https://www.figma.com/community/plugin/1348339696557868933/select-and-inspect) - [GitHub](https://github.com/NoriSte/figma-select-and-inspect))
+- Figma to XState ([Figma Community](https://www.figma.com/community/plugin/1333069526938083033/figma-to-xstate) - [GitHub](https://github.com/NoriSte/figma-to-xstate))
 - Cypress Wait Until ([NPM](https://www.npmjs.com/package/cypress-wait-until) -
 [GitHub](https://github.com/NoriSte/cypress-wait-until)) ![repository stars](https://img.shields.io/github/stars/noriste/cypress-wait-until?style=social)
 [![NPM downloads](https://img.shields.io/npm/dm/cypress-wait-until?color=CB3836)](https://www.npmjs.com/package/cypress-wait-until)

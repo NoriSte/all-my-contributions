@@ -1,7 +1,7 @@
 A list of all my contributions ❤️
 
 - [UI Testing Best Practices](#ui-testing-best-practices)
-- [Instructor](#instructor)
+- [Instructor/Consultant](#instructorconsultant)
 - [Articles](#articles)
 - [Speaker](#speaker)
 - [Plugins and utilities](#plugins-and-utilities)
@@ -16,6 +16,8 @@ A list of all my contributions ❤️
 ## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
 
 I created a GitHub repository/book, [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices), aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
+
+<span id="instructor"></span>
 
 ## Instructor/Consultant
 
@@ -122,6 +124,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Feb, 2022 (remote talk) - Fabio Biondi's Twitch ([Recording (in Italian)](https://youtu.be/ip-4LOaxjSA?t=968) - [Code](https://github.com/NoriSte/how-i-avoid-the-next-developer-swearing-at-my-code-talk-v1))
 
 **Testing Best Practices**
+- Jun, 2024 - Gitbar podcast ([Podcast](https://www.gitbar.it/episodes/ep167-ui-testing-con-stefano-magni-preply) - [Recording (in Italian)](https://www.youtube.com/watch?v=0OCW3D7UY5A))
 - Oct, 2022 - ReactJS Milano ([Slides](https://slides.com/noriste/reactjs-milano-2022) - [Meetup](https://www.meetup.com/it-IT/react-js-milano/events/288495189/) - [Related article](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d) - [Recording (in Italian)](https://www.youtube.com/watch?v=AohdFAexbXY))
 
 **Deepening a thing at a time**

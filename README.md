@@ -21,6 +21,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Instructor/Consultant
 
+- August, 2024 - Javascript Testing, a Practical Approach @ [Banca CF+](https://www.bancacfplus.it/)
 - April, 2024 - Javascript Testing, a Practical Approach @ [Zelando](https://www.zelando.it/)
 - February, 2024 - Javascript Testing, a Practical Approach @ [Apropos](https://www.apropos.srl/) / [Accenture](https://www.accenture.com/it-it)
 - June, 2023 - Automatic frontend code generator @ [Platformatic](https://platformatic.dev/)

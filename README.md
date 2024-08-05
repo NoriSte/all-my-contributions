@@ -239,7 +239,6 @@ I got inspired by:
 ## Social links
 
 - Follow me on [Twitter](https://twitter.com/NoriSte) or [LinkedIn](https://www.linkedin.com/in/noriste/)
-- Find my articles on [Medium](https://medium.com/@NoriSte) and [Dev.to](https://dev.to/noriste) and my slides on [Slides.com](https://slides.com/noriste)
+- Find my articles on [Dev.to](https://dev.to/noriste) and my slides on [Slides.com](https://slides.com/noriste)
 - Find my published packages on [NPM](https://www.npmjs.com/settings/noriste/packages)
-- Read everything about me in a timeline-style on [StackOverflow](https://stackoverflow.com/users/700707/noriste)
-- Or simply run `$ npx noriste` 😁
+<!-- - Or simply run `$ npx noriste` 😁 -->

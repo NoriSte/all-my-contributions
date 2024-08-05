@@ -235,6 +235,7 @@ I got inspired by:
 - Kent C. Dodds' [Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building/)
 - Tim Urban's [Inside the Mind of a Master Procrastinator talk](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en)
 - Cedric Chin's [Are You Playing to Play, or Playing to Win?](https://commoncog.com/playing-to-play-playing-to-win/)
+- ROdolfo Siles' [Activity-Based vs. Results-Based Management](https://www.linkedin.com/pulse/activity-based-vs-results-based-management-rodolfo/)
 
 ## Social links
 

@@ -243,4 +243,5 @@ I got inspired by:
 - Follow me on [Twitter](https://twitter.com/NoriSte) or [LinkedIn](https://www.linkedin.com/in/noriste/)
 - Find my articles on [Dev.to](https://dev.to/noriste) and my slides on [Slides.com](https://slides.com/noriste)
 - Find my published packages on [NPM](https://www.npmjs.com/settings/noriste/packages)
+- If you work out, let's connect on [Strava](https://www.strava.com/athletes/71944632)
 <!-- - Or simply run `$ npx noriste` 😁 -->

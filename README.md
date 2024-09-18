@@ -111,8 +111,11 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
+**How to measure the impact of a Design System**
+- Sep, 2024 - [Belka](https://www.belkadigital.com/)'s AMA ([Recording (in Italian)](https://www.youtube.com/watch?v=Kw_eGDppG4M))
+
 **Frontend scope of the Platform teams**
-- Sep, 2023 - [Continuous Delivery](https://t.me/s/continuous_delivery) webinar ([Recording (in Italian)](https://www.youtube.com/watch?v=jnurcIDQDQ8))
+- Sep, 2023 - [Continuous Delivery](https://t.me/s/continuous_delivery)'s webinar ([Recording (in Italian)](https://www.youtube.com/watch?v=jnurcIDQDQ8))
 
 **Some things I learnt from working on big frontend codebases**
 - Aug, 2023 - [Educative.io](https://www.educative.io/) webinar ([Recording](https://app.livestorm.co/educativeinc/optimizing-large-codebases-lessons-learned-scaling-internet-scale-frontends/live#/) (requires login) - [Related article](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a))

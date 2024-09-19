@@ -45,6 +45,12 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
+#### 2024
+
+- Design System visual coverage
+  - The Implementation Details of Preply’s Design System Visual Coverage (*planned for October 2024*)
+  - Visual coverage: Why and How Preply Measures the Impact of the Design System ([Preply engineering blog](https://medium.com/preply-engineering/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-1057115f4aff))
+
 #### 2023
 
 - Some things I learnt from working on big frontend codebases ([dev.to](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a) - [Medium](https://noriste.medium.com/some-things-i-learnt-from-working-on-big-frontend-codebases-f6436b641cb7)) - ⭐️ *Featured on [dev.to Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)*

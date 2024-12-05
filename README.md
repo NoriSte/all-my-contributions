@@ -249,7 +249,7 @@ I got inspired by:
 
 ## Social links
 
-- Follow me on [Twitter](https://twitter.com/NoriSte) or [LinkedIn](https://www.linkedin.com/in/noriste/)
+- Follow me on [Twitter](https://twitter.com/NoriSte), [LinkedIn](https://www.linkedin.com/in/noriste/), [BlueSky](https://bsky.app/profile/noriste.bsky.social)
 - Find my articles on [Dev.to](https://dev.to/noriste) and my slides on [Slides.com](https://slides.com/noriste)
 - Find my published packages on [NPM](https://www.npmjs.com/settings/noriste/packages)
 - If you work out, let's connect on [Strava](https://www.strava.com/athletes/71944632)

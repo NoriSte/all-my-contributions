@@ -134,6 +134,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Sep, 2023 - [Continuous Delivery](https://t.me/s/continuous_delivery)'s webinar ([Recording (in Italian)](https://www.youtube.com/watch?v=jnurcIDQDQ8))
 
 **Some things I learnt from working on big frontend codebases**
+- Feb, 20225 - Commit to Growth  ([Podcast](https://podcasts.apple.com/it/podcast/commit-to-growth/id1788326535) - [Recording](https://podcasts.apple.com/us/podcast/lessons-from-large-codebases-design-visual-coverage/id1788326535?i=1000688799413))
 - Aug, 2023 - [Educative.io](https://www.educative.io/) webinar ([Recording](https://app.livestorm.co/educativeinc/optimizing-large-codebases-lessons-learned-scaling-internet-scale-frontends/live#/) (requires login) - [Related article](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a))
 
 **The long road to remove the flakiness from the Hasura Console E2E tests**

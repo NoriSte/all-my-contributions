@@ -47,7 +47,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2025
 
-- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c))
+- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c)) - ⭐️ *Also [read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936)*
 
 #### 2024
 

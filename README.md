@@ -47,7 +47,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2025
 
-- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c)) - ⭐️ *Featured [on ThisWeekInReact newsletter](https://thisweekinreact.com/newsletter/223), [read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936), [shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
+- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c)) - ⭐️ *Featured on [ThisWeekInReact newsletter #223](https://thisweekinreact.com/newsletter/223), on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42), [read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936), [shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
 
 #### 2024
 
@@ -75,8 +75,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Hasura Console UI coding patterns
   - Testing ([dev.to](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d))
 - My take on Snapshot Testing ([Medium](https://noriste.medium.com/my-take-on-snapshot-testing-b90178e6151f) - [dev.to](https://dev.to/noriste/my-take-on-snapshot-testing-19k6))
-- Keeping TypeScript Type Guards safe and up to date (a simpler solution) ([dev.to](https://dev.to/noriste/keeping-typescript-type-guards-safe-and-up-to-date-a-simpler-solution-ja3)) - ⭐️ *Featured [on ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1521753255025459201)*
-- The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh)) - ⭐️ *Featured [on ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1519003882441084933)*
+- Keeping TypeScript Type Guards safe and up to date (a simpler solution) ([dev.to](https://dev.to/noriste/keeping-typescript-type-guards-safe-and-up-to-date-a-simpler-solution-ja3)) - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1521753255025459201)*
+- The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh)) - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1519003882441084933)*
 - Speed up E2E tests for Vite-based apps ([dev.to](https://dev.to/noriste/speed-up-e2e-tests-for-vite-based-apps-3k4l))
 
 #### 2021

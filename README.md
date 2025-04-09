@@ -47,7 +47,13 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2025
 
-- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c)) - ⭐️ *Featured on [ThisWeekInReact newsletter #223](https://thisweekinreact.com/newsletter/223), on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42), on [webperformance.recipes](https://webperformance.recipes/), [read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936), [shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
+- How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c))
+  - ⭐️ *[Listed by Addy Osmani](https://largeapps.dev/case-studies/advanced/)*
+  - ⭐️ *[Read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936)*
+  - ⭐️ *[Shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
+  - ⭐️ *Featured on [ThisWeekInReact newsletter #223](https://thisweekinreact.com/newsletter/223)*
+  - ⭐️ *Featured on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42)*
+  - ⭐️ *Featured on [webperformance.recipes](https://webperformance.recipes/)*
 
 #### 2024
 
@@ -57,7 +63,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 #### 2023
 
-- Some things I learnt from working on big frontend codebases ([dev.to](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a) - [Medium](https://noriste.medium.com/some-things-i-learnt-from-working-on-big-frontend-codebases-f6436b641cb7)) - ⭐️ *Featured on [dev.to Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)*
+- Some things I learnt from working on big frontend codebases ([dev.to](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a) - [Medium](https://noriste.medium.com/some-things-i-learnt-from-working-on-big-frontend-codebases-f6436b641cb7))
+  - ⭐️ *Featured on [dev.to Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)*
 - Frontend Platform use case - Acting before a real Product need ([dev.to](https://dev.to/noriste/frontend-platform-use-case-acting-before-a-real-product-need-c38))
 - Frontend Platform use case - Enabling features and hiding the distribution problems ([dev.to](https://dev.to/noriste/frontend-platform-use-case-enabling-features-and-hiding-the-distribution-problems-12mi))
 - Frontend Platform use case - Creating a roadmap without a Product Manager ([dev.to](https://dev.to/noriste/frontend-platform-use-case-creating-a-roadmap-without-a-product-manager-2fdd))
@@ -75,8 +82,10 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Hasura Console UI coding patterns
   - Testing ([dev.to](https://dev.to/noriste/hasura-console-ui-coding-patterns-testing-281d))
 - My take on Snapshot Testing ([Medium](https://noriste.medium.com/my-take-on-snapshot-testing-b90178e6151f) - [dev.to](https://dev.to/noriste/my-take-on-snapshot-testing-19k6))
-- Keeping TypeScript Type Guards safe and up to date (a simpler solution) ([dev.to](https://dev.to/noriste/keeping-typescript-type-guards-safe-and-up-to-date-a-simpler-solution-ja3)) - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1521753255025459201)*
-- The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh)) - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1519003882441084933)*
+- Keeping TypeScript Type Guards safe and up to date (a simpler solution) ([dev.to](https://dev.to/noriste/keeping-typescript-type-guards-safe-and-up-to-date-a-simpler-solution-ja3))
+  - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1521753255025459201)*
+- The challenges of rendering an OpenLayers map in a popup through React ([dev.to](https://dev.to/noriste/the-challenges-of-rendering-an-openlayers-map-in-a-popup-through-react-2elh))
+  - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1519003882441084933)*
 - Speed up E2E tests for Vite-based apps ([dev.to](https://dev.to/noriste/speed-up-e2e-tests-for-vite-based-apps-3k4l))
 
 #### 2021
@@ -92,10 +101,11 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - React Hooks ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-react-hooks-4f7l))
   - Immutability ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-immutability-5bic))
   - Redux Saga ([dev.to](https://dev.to/noriste/routemanager-ui-coding-patterns-redux-saga-4lem#create-frontendoriented-requests))
-- Migrating a 150K LOC codebase to Vite and ESBuild - ⭐️ *The first article out there about migrating a big codebase to Vite*
+- Migrating a 150K LOC codebase to Vite and ESBuild
   - Why? (Part 1/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-4ccd9bea2a61) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-why-part-1-3-2idj))
   - How? (Part 2/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-91b0b873f388) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-how-part-2-3-1c08))
   - Is it worthile? (Part 3/3) ([Medium](https://noriste.medium.com/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-5a12894bac96) - [dev.to](https://dev.to/noriste/migrating-a-150k-loc-codebase-to-vite-and-esbuild-is-it-worthwhile-part-3-3-339k))
+  - ⭐️ *The first article out there about migrating a big codebase to Vite*
 - Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
 
 #### 2020
@@ -111,7 +121,8 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Launching “\$ npm run” programmatically with `npm.run()` ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
 - New to front-end testing? Start from the top of the pyramid! ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
 - Who watches the watchmen? Mutation testing in action ([Medium](https://medium.com/@NoriSte/who-watches-the-watchmen-mutation-testing-in-action-4c56e014631) - [dev.to](https://dev.to/noriste/who-watches-the-watchmen-mutation-testing-in-action-3889) - [LinkedIn](https://www.linkedin.com/pulse/who-watches-watchmen-mutation-testing-action-stefano-magni))
-- Front-end productivity boost: Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/)) - ⭐️ *Also [appreciated by Kent C. Dodds](https://dev.to/kentcdodds/comment/djl2)*
+- Front-end productivity boost: Cypress as your main development browser ([Medium](https://medium.com/@NoriSte/front-end-productivity-boost-cypress-as-your-main-development-browser-f08721123498) - [dev.to](https://dev.to/noriste/front-end-productivity-boost-cypress-as-your-main-development-browser-5cdk) - [LinkedIn](https://www.linkedin.com/pulse/front-end-productivity-boost-cypress-your-main-browser-stefano-magni/))
+  - ⭐️ *Also [appreciated by Kent C. Dodds](https://dev.to/kentcdodds/comment/djl2)*
 - The concept of “Monitoring Tests” ([Medium](https://medium.com/@NoriSte/the-concept-of-monitoring-tests-d7cb5af514e5) - [dev.to](https://dev.to/noriste/the-concept-of-monitoring-tests-4l5j) - [LinkedIn](https://www.linkedin.com/pulse/concept-monitoring-tests-stefano-magni/))
 - Component vs (UI) Integration vs E2E tests ([Medium](https://medium.com/@NoriSte/component-vs-ui-integration-vs-e2e-tests-f02b575339dc) - [dev.to](https://dev.to/noriste/component-vs-ui-integration-vs-e2e-tests-3i0d) - [LinkedIn](https://www.linkedin.com/pulse/component-vs-ui-integration-e2e-tests-stefano-magni/))
 - Await, do not make your E2E tests sleep  ([Medium](https://medium.com/@NoriSte/await-do-not-sleep-your-e2e-tests-df67e051b409) - [dev.to](https://dev.to/noriste/await-do-not-make-your-e2e-tests-sleep-4g1o) - [LinkedIn](https://www.linkedin.com/pulse/await-do-make-your-e2e-tests-sleep-stefano-magni/) - [Cypress Blog](https://www.cypress.io/blog/2019/08/21/guest-post-await-do-not-make-your-e2e-tests-sleep/))

@@ -157,6 +157,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 **How I avoid the next developer swearing at my code**
 - Oct, 2022 - ReactJSDay ([Recording](https://www.youtube.com/watch?v=7e2XIrxNE5E) - [Slides](https://slides.com/noriste/reactjsday-2022) - [Conference](https://2022.reactjsday.it/) - [Related article](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
+  - ⭐️ *Favorite talk of [the conference](https://joind.in/event/reactjsday-2022)*
 - Feb, 2022 (remote talk) - Fabio Biondi's Twitch ([Recording (in Italian)](https://youtu.be/ip-4LOaxjSA?t=968) - [Code](https://github.com/NoriSte/how-i-avoid-the-next-developer-swearing-at-my-code-talk-v1))
 
 **Testing Best Practices**

@@ -1,6 +1,6 @@
 A list of all my contributions ❤️
 
-- [UI Testing Best Practices](#ui-testing-best-practices)
+- [OSS projects](#oss)
 - [Instructor/Consultant](#instructorconsultant)
 - [Articles](#articles)
 - [Speaker](#speaker)
@@ -9,11 +9,18 @@ A list of all my contributions ❤️
 - [Social links](#social-links)
 
 
-<span id="ui-testing-best-practices"></span>
+<span id="oss"></span>
+
+
+## OSS projects
 
 <!-- <img src="assets/ui-testing-best-practices.jpg" style="width:100%;max-width:300px;display:block;" /> -->
 
-## UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
+### Design System Visual Coverage
+
+At Preply, we shared [the Design System Visual Coverage](https://github.com/preply/design-system-visual-coverage), a new way to measure the impact of Design Systems from the users' perspective. It's a sort of RUM (Real User Monitoring) for Design Systems, after extensively working and battle-testing it in production.
+
+### UI Testing Best Practices ![repository stars](https://img.shields.io/github/stars/noriste/ui-testing-best-practices?style=social)
 
 I created a GitHub repository/book, [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices), aiming to share my knowledge about UI/E2E Testing and creating a starting point for every browser testing lover.
 

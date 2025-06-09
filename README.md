@@ -139,15 +139,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
-### Future events
-
-**Design System Visual Coverage demo**
-- May, 2025 - [Into Design Systems](https://www.intodesignsystems.com/)
-
-**Design System Visual Coverage in web and app (React Native) applications**
-- Apr, 2025 - [JSDay](https://www.jsday.it/)
-
-### Past events
+**Design System Visual Coverage**
+- May, 2025 - [Into Design Systems](https://www.intodesignsystems.com/) ([Resources](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources))
+- Apr, 2025 - [JSDay](https://www.jsday.it/), along with [Matteo Ronchi](https://www.linkedin.com/in/matteoronchi/) ([Slides](https://cef62.github.io/design-system-coverage-jsday-2025))
 
 **How to measure the impact of a Design System**
 - Sep, 2024 - [Belka](https://www.belkadigital.com/)'s AMA ([Recording (in Italian)](https://www.youtube.com/watch?v=Kw_eGDppG4M))

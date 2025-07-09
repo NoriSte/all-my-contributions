@@ -55,18 +55,23 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 #### 2025
 
 - How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c))
-  - ⭐️ *[Listed by Addy Osmani](https://largeapps.dev/case-studies/advanced/)*
-  - ⭐️ *[Read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936)*
-  - ⭐️ *[Shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
-  - ⭐️ *Featured on [ThisWeekInReact newsletter #223](https://thisweekinreact.com/newsletter/223)*
-  - ⭐️ *Featured on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42)*
-  - ⭐️ *Featured on [webperformance.recipes](https://webperformance.recipes/)*
+  - You may have heard of the article:
+    - ⭐️ *[Listed by Addy Osmani](https://largeapps.dev/case-studies/advanced/)*
+    - ⭐️ *[Read by Alex Russell](https://toot.cafe/@slightlyoff/114052148386376936)*
+    - ⭐️ *[Shared by Nadia Makarevich](https://www.linkedin.com/posts/adevnadia_how-preply-improved-inp-on-a-nextjs-application-activity-7298316239070756865-LogY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAf1Iw8BLB1HYXoDwcnZT8F3w5R9nT8dX_A)*
+    - ⭐️ *Featured on [ThisWeekInReact newsletter #223](https://thisweekinreact.com/newsletter/223)*
+    - ⭐️ *Featured on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42)*
+    - ⭐️ *Featured on [webperformance.recipes](https://webperformance.recipes/)*
 
 #### 2024
 
 - Design System visual coverage
   - Visual coverage: Why and How Preply Measures the Impact of the Design System (Part 1/2) ([Preply engineering blog](https://medium.com/preply-engineering/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-1057115f4aff) - [dev.to](https://dev.to/noriste/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-part-i-3omb))
   - The Implementation Details of Preply’s Design System Visual Coverage (Part 2/2) ([Preply engineering blog](https://medium.com/preply-engineering/the-implementation-details-of-preplys-design-system-visual-coverage-86b4a78ad2bb) - [dev.to](https://dev.to/noriste/the-implementation-details-of-preplys-design-system-visual-coverage-part-ii-1ao2))
+    - ⭐️ Presented at [Into Design Systems conference](https://www.intodesignsystems.com/): here you can find [the article they wrote about it](https://intodesignsystems.substack.com/p/measuring-design-system-impact-lessons), and [the resources we shared](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources)).
+    - ⭐️ Presented at the [JSDay](https://www.jsday.it/) conference: here is [the talk description](https://www.jsday.it/talks_speakers/#DesignSystemVisualCoverageInWebAndApp(ReactNative)Applications), and the [slides](https://cef62.github.io/design-system-coverage-jsday-2025).
+    - ⭐️ Presented at one of [Belka](https://www.belkadigital.com/)’s AMA: here is [the recording](https://www.youtube.com/watch?v=Kw_eGDppG4M) (in Italian).
+    - ⭐️ Presented at one of the [Commit to Growth](https://podcasts.apple.com/it/podcast/commit-to-growth/id1788326535)’s episodes: here is [the recording](https://podcasts.apple.com/us/podcast/lessons-from-large-codebases-design-visual-coverage/id1788326535?i=1000688799413).
 
 #### 2023
 

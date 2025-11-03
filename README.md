@@ -144,6 +144,9 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 ## Speaker
 <span id="talks"></span>
 
+**Generic chats**
+- Nov, 2025: [Señors @ Scale](https://www.linkedin.com/company/se%C3%B1ors-scale?trk=public_post-text) ([Summary](https://www.linkedin.com/feed/update/urn:li:activity:7391017571921051649/), [Recording](https://www.youtube.com/watch?v=DMF3dOcAbsM&feature=youtu.be&themeRefresh=1))
+
 **Design System Visual Coverage**
 - May, 2025 - [Into Design Systems](https://www.intodesignsystems.com/) ([Resources](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources))
 - Apr, 2025 - [JSDay](https://www.jsday.it/), along with [Matteo Ronchi](https://www.linkedin.com/in/matteoronchi/) ([Slides](https://cef62.github.io/design-system-coverage-jsday-2025))

@@ -6,6 +6,7 @@ A list of all my contributions ❤️
 - [Speaker](#speaker)
 - [Plugins and utilities](#plugins-and-utilities)
 - [Inspiration](#inspiration)
+- [Activities I inspired](#activities-i-inspired)
 - [Social links](#social-links)
 
 
@@ -52,7 +53,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 ## Articles
 
-#### 2025
+### 2025
 
 - How Preply improved INP on a Next.js application (without React Server Components and App Router) ([Preply engineering blog](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875) - [dev.to](https://dev.to/noriste/how-preply-improved-inp-on-a-nextjs-application-without-react-server-components-and-app-router-j8c))
   - You may have heard of the article:
@@ -63,7 +64,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
     - ⭐️ *Featured on [Frontend at Scale newsletter #42](https://frontendatscale.com/issues/42)*
     - ⭐️ *Featured on [webperformance.recipes](https://webperformance.recipes/)*
 
-#### 2024
+### 2024
 
 - Design System visual coverage
   - Visual coverage: Why and How Preply Measures the Impact of the Design System (Part 1/2) ([Preply engineering blog](https://medium.com/preply-engineering/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-1057115f4aff) - [dev.to](https://dev.to/noriste/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-part-i-3omb))
@@ -73,7 +74,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
     - ⭐️ Presented at one of [Belka](https://www.belkadigital.com/)’s AMA: here is [the recording](https://www.youtube.com/watch?v=Kw_eGDppG4M) (in Italian).
     - ⭐️ Presented at one of the [Commit to Growth](https://podcasts.apple.com/it/podcast/commit-to-growth/id1788326535)’s episodes: here is [the recording](https://podcasts.apple.com/us/podcast/lessons-from-large-codebases-design-visual-coverage/id1788326535?i=1000688799413).
 
-#### 2023
+### 2023
 
 - Some things I learnt from working on big frontend codebases ([dev.to](https://dev.to/noriste/some-things-i-learnt-from-working-on-big-frontend-codebases-1e0a) - [Medium](https://noriste.medium.com/some-things-i-learnt-from-working-on-big-frontend-codebases-f6436b641cb7))
   - ⭐️ *Featured on [dev.to Top 7 Featured DEV Posts from the Past Week](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-34h0)*
@@ -85,7 +86,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Hasura E2E tests chronicles, February 2023 ([dev.to](https://dev.to/noriste/hasura-e2e-tests-chronicles-february-2023-24ki))
 - Improving UI tests' code with debugging in mind ([dev.to](https://dev.to/noriste/improving-ui-testss-code-to-ease-debugging-them-later-2478))
 - One long E2E test or small, independent, ones? ([dev.to](https://dev.to/noriste/one-long-e2e-test-or-small-independent-ones-33ao))
-#### 2022
+### 2022
 
 - Improving Hasura's Internal PR Review process ([dev.to](https://dev.to/noriste/improving-hasuras-internal-pr-review-process-1ham) - [Hasura blog](https://hasura.io/blog/improving-hasuras-internal-pr-review-process/))
 - Decouple the back-end and front-end test through Contract Testing ([dev.to](https://dev.to/noriste/decouple-the-back-end-and-front-end-test-through-contract-testing-112k))
@@ -100,7 +101,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - ⭐️ *Featured on [ThisWeekInReact newsletter](https://twitter.com/sebastienlorber/status/1519003882441084933)*
 - Speed up E2E tests for Vite-based apps ([dev.to](https://dev.to/noriste/speed-up-e2e-tests-for-vite-based-apps-3k4l))
 
-#### 2021
+### 2021
 - How I ease the next developer reading my code ([dev.to](https://dev.to/noriste/how-i-ease-the-next-developer-reading-my-code-1986))
 - From unreadable React Component Tests to simple, stupid ones ([dev.to](https://dev.to/noriste/from-unreadable-react-component-tests-to-simple-stupid-ones-3ge6))
 - How I strive for XState machine, types, and tests readability ([Medium](https://noriste.medium.com/how-i-strive-for-xstate-machine-types-and-tests-readability-64df3badea09) - [dev.to](https://dev.to/noriste/how-i-strive-for-xstate-machine-types-and-tests-readability-19f4))
@@ -120,7 +121,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - ⭐️ *The first article out there about migrating a big codebase to Vite*
 - Creating a book-driven course: is it worthwhile? ([Medium](https://medium.com/@NoriSte/creating-a-book-driven-course-is-it-worthwhile-1514bb1eb434) - [dev.to](https://dev.to/noriste/creating-a-book-driven-course-is-it-worthwhile-42ef))
 
-#### 2020
+### 2020
 - Choose what NOT to study and focus on one thing at a time ([Medium](https://medium.com/@NoriSte/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-b7304ac2a125) - [dev.to](https://dev.to/noriste/choose-what-not-to-study-and-focus-on-one-thing-at-a-time-3ben))
 - Reimplementing the core Recoil’s APIs for fun and learning ([Medium](https://noriste.medium.com/reimplementing-the-core-recoils-apis-for-fun-and-learning-eb1402c1daf9) - [dev.to](https://dev.to/noriste/reimplementing-the-core-recoil-s-apis-for-fun-and-learning-40da))
 - UI Tests Debugging Best Practices ([Medium](https://medium.com/@NoriSte/ui-tests-debugging-best-practices-789c4ed4daf6?sk=c6056f124f40b15e09669e5839e9f814) - [dev.to](https://dev.to/noriste/ui-tests-debugging-best-practices-1eg3))
@@ -128,7 +129,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Testing a Virtual List component with Cypress and Storybook ([Medium](https://medium.com/@NoriSte/testing-a-virtual-list-component-with-cypress-and-storybook-494dc2d1d26b) - [dev.to](https://dev.to/noriste/testing-a-virtual-list-component-with-cypress-and-storybook-3lam))
 - Some UI testing problems and the Cypress way ([Medium](https://medium.com/@NoriSte/some-ui-testing-problems-and-the-cypress-way-22312ab986e3) - [dev.to](https://dev.to/noriste/some-ui-testing-problems-and-the-cypress-way-1167))
 
-#### 2019
+### 2019
 - Software tests as a documentation tool ([Medium](https://medium.com/@NoriSte/software-tests-as-a-documentation-tool-e1c463bad1be) - [dev.to](https://dev.to/noriste/software-tests-as-a-documentation-tool-36pl) - [LinkedIn](https://www.linkedin.com/pulse/software-tests-documentation-tool-stefano-magni))
 - Launching “\$ npm run” programmatically with `npm.run()` ([Medium](https://medium.com/@NoriSte/launching-npm-run-programmatically-with-npm-run-f2a1b8a569a6) - [dev.to](https://dev.to/noriste/launching-npm-run-programmatically-with-npm-run-3mmc) - [LinkedIn](https://www.linkedin.com/pulse/launching-npm-run-programmatically-npmrun-stefano-magni))
 - New to front-end testing? Start from the top of the pyramid! ([Medium](https://medium.com/@NoriSte/new-to-front-end-testing-start-from-the-top-of-the-pyramid-a0039615353c) - [dev.to](https://dev.to/noriste/new-to-front-end-testing-start-from-the-top-of-the-pyramid-36kj) - [LinkedIn](https://www.linkedin.com/pulse/new-front-end-testing-start-from-top-thepyramid-stefano-magni) - [Cypress blog](https://www.cypress.io/blog/2019/10/10/guest-post-new-to-front-end-testing-start-from-the-top-of-the-pyramid/))
@@ -282,7 +283,21 @@ I got inspired by:
 - Kent C. Dodds' [Intentional Career Building](https://kentcdodds.com/blog/intentional-career-building/)
 - Tim Urban's [Inside the Mind of a Master Procrastinator talk](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en)
 - Cedric Chin's [Are You Playing to Play, or Playing to Win?](https://commoncog.com/playing-to-play-playing-to-win/)
-- ROdolfo Siles' [Activity-Based vs. Results-Based Management](https://www.linkedin.com/pulse/activity-based-vs-results-based-management-rodolfo/)
+- Rodolfo Siles' [Activity-Based vs. Results-Based Management](https://www.linkedin.com/pulse/activity-based-vs-results-based-management-rodolfo/)
+
+## Activities I inspired
+
+I always push other professionals to work more in public, here is a list of activities others have done thanks to my insistence 😅
+| Activity                                                                                                                                                                                                                         | What I did                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Article: [Shipping with Empathy: Engineering Habits That Put Users First](https://medium.com/preply-engineering/shipping-with-empathy-engineering-habits-that-put-users-first-e2a7939b3fe5).                                     | I pushed Gregory and Alberto, helped during the writing phase, and constantly reviewed the article. |
+| Talk: [ReactJS Barcelona Meetup — Memory Leak Debugging & High-Performance](https://www.youtube.com/watch?v=shg25EFdvlU).                                                                                                        | I pushed Asier to convert the article into a talk and jump on the stage.                            |
+| Article: [Managing Dynamic Database Credentials with HashiCorp Vault: a Step-by-Step Guide](https://medium.com/preply-engineering/managing-dynamic-database-credentials-with-hashicorp-vault-a-step-by-step-guide-17e56dd43960). | I inspired Dmytro with an internal talk at Preply about working in public.                          |
+| Article: [Frontend memory leaks, from mysterious crashes to stability](https://medium.com/@aadurizs/frontend-memory-leaks-from-mysterious-crashes-to-stability-c88cc4067cb9).                                                    | I pushed Asier to work in public, reviewed the article.                                             |
+| Article: [How SimLocal reduced frontend complexity: Migrate from Webflow and React into Remix](https://medium.com/@aadurizs/how-simlocal-reduced-frontend-complexity-migrate-from-webflow-and-react-into-remix-1dea88dbe5eb).    | I pushed Asier to work in public, reviewed the article.                                             |
+| Talk: [Pain Driven Development is good for business](https://www.youtube.com/watch?v=-2Z3EPyXoA4).                                                                                                                               | I pushed Dario to jump on the stage and tell about their amazing product development journey.       |
+
+*If you got inspired by me and you'd like to show up in the above list, reach out to me 🤗.*
 
 ## Social links
 

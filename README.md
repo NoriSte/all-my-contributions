@@ -70,7 +70,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
   - Visual coverage: Why and How Preply Measures the Impact of the Design System (Part 1/2) ([Preply engineering blog](https://medium.com/preply-engineering/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-1057115f4aff) - [dev.to](https://dev.to/noriste/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-part-i-3omb))
   - The Implementation Details of Preply’s Design System Visual Coverage (Part 2/2) ([Preply engineering blog](https://medium.com/preply-engineering/the-implementation-details-of-preplys-design-system-visual-coverage-86b4a78ad2bb) - [dev.to](https://dev.to/noriste/the-implementation-details-of-preplys-design-system-visual-coverage-part-ii-1ao2))
     - ⭐️ Presented at [Into Design Systems conference](https://www.intodesignsystems.com/): here you can find [the article they wrote about it](https://intodesignsystems.substack.com/p/measuring-design-system-impact-lessons), and [the resources we shared](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources)).
-    - ⭐️ Presented at the [JSDay](https://www.jsday.it/) conference: here is [the talk description](https://www.jsday.it/talks_speakers/#DesignSystemVisualCoverageInWebAndApp(ReactNative)Applications), and the [slides](https://cef62.github.io/design-system-coverage-jsday-2025).
+    - ⭐️ Presented at the [JSDay](https://www.jsday.it/) conference: here is [the talk description](https://www.jsday.it/talks_speakers/#DesignSystemVisualCoverageInWebAndApp(ReactNative)Applications), the [slides](https://cef62.github.io/design-system-coverage-jsday-2025), and [the recording](https://www.youtube.com/watch?v=xy3mRyXDMHo).
     - ⭐️ Presented at one of [Belka](https://www.belkadigital.com/)’s AMA: here is [the recording](https://www.youtube.com/watch?v=Kw_eGDppG4M) (in Italian).
     - ⭐️ Presented at one of the [Commit to Growth](https://podcasts.apple.com/it/podcast/commit-to-growth/id1788326535)’s episodes: here is [the recording](https://podcasts.apple.com/us/podcast/lessons-from-large-codebases-design-visual-coverage/id1788326535?i=1000688799413).
 
@@ -150,7 +150,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 
 **Design System Visual Coverage**
 - May, 2025 - [Into Design Systems](https://www.intodesignsystems.com/) ([Resources](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources))
-- Apr, 2025 - [JSDay](https://www.jsday.it/), along with [Matteo Ronchi](https://www.linkedin.com/in/matteoronchi/) ([Slides](https://cef62.github.io/design-system-coverage-jsday-2025))
+- Apr, 2025 - [JSDay](https://www.jsday.it/), along with [Matteo Ronchi](https://www.linkedin.com/in/matteoronchi/) ([Slides](https://cef62.github.io/design-system-coverage-jsday-2025) - [Recording](https://www.youtube.com/watch?v=xy3mRyXDMHo))
 - Sept, 2025 - [DevStandup](https://www.youtube.com/@DevStandup) ([Recording](https://www.youtube.com/watch?v=cSZu9L1SGgw) - [Tldraw](https://www.tldraw.com/f/7aOQ6RnD_s-DfXqJc6_j0?d=v17300.-628.6632.3441.SuCajsP1XIWBn26tohKWB))
 
 **How to measure the impact of a Design System**

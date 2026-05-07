@@ -149,7 +149,7 @@ I created a GitHub repository/book, [UI Testing Best Practices](https://github.c
 - Nov, 2025: [Señors @ Scale](https://www.linkedin.com/company/se%C3%B1ors-scale?trk=public_post-text) ([Summary](https://www.linkedin.com/feed/update/urn:li:activity:7391017571921051649/), [Recording](https://www.youtube.com/watch?v=DMF3dOcAbsM&feature=youtu.be&themeRefresh=1))
 
 **Design System Visual Coverage**
-- Mar, 2026 - [WebDay](https://www.webdayconf.it/2026) ([Slides](https://noriste.github.io/design-system-coverage-webday-2026/1))
+- Mar, 2026 - [WebDay](https://www.webdayconf.it/2026) ([Recording](https://www.improove.tech/app/videos/5119/How-to-track-and-guide-the-Design-System-adoption-in-React-and-React-Native) - [Slides](https://noriste.github.io/design-system-coverage-webday-2026/1))
 - May, 2025 - [Into Design Systems](https://www.intodesignsystems.com/) ([Resources](https://www.figma.com/community/file/1509535015145685735/design-system-visual-coverage-resources))
 - Apr, 2025 - [JSDay](https://www.jsday.it/), along with [Matteo Ronchi](https://www.linkedin.com/in/matteoronchi/) ([Slides](https://cef62.github.io/design-system-coverage-jsday-2025) - [Recording](https://www.youtube.com/watch?v=xy3mRyXDMHo))
 - Sept, 2025 - [DevStandup](https://www.youtube.com/@DevStandup) ([Recording](https://www.youtube.com/watch?v=cSZu9L1SGgw) - [Tldraw](https://www.tldraw.com/f/7aOQ6RnD_s-DfXqJc6_j0?d=v17300.-628.6632.3441.SuCajsP1XIWBn26tohKWB))
